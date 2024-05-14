@@ -352,14 +352,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 33,
+    question: "As prophesied, Goku transformed into the Super Saiyan form in ‘Dragon Ball Z’. Where did this transformation take place?",
+    answer: "Planet Namek",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Eros",
+      "Planet Arlia",
+      "Planet Vegeta",
+      "Planet Namek"
     ]
   },
   {
