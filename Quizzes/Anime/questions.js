@@ -374,14 +374,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 35,
+    question: "Which anime series involves a family possessed by the animals of the Chinese zodiac?",
+    answer: "Fruits Basket",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Fairy Tail",
+      "Sailor Moon",
+      "Jūni Taisen",
+      "Fruits Basket"
     ]
   },
   {
