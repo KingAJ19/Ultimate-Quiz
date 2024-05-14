@@ -396,14 +396,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 37,
+    question: "Who is known as the ‘One Punch Man’?",
+    answer: "Saitama",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "King",
+      "Saitama",
+      "Bushidrill",
+      "Twin Tail"
     ]
   },
   {
