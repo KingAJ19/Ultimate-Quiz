@@ -253,14 +253,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 24,
+    question: "In ‘Hunter x Hunter’, what is the name of Gon’s father?",
+    answer: "Ging Freecss",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Isaac Netero",
+      "Ging Freecss",
+      "Pariston Hill",
+      "Gashta Bellam"
     ]
   },
   {
