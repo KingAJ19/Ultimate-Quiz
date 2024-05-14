@@ -143,25 +143,25 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 14,
+    question: "In ‘Neon Genesis Evangelion’, what are the giant bio-machines piloted by the main characters called?",
+    answer: "Evangelions",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Evangelions",
+      "Angels",
+      "Gurren Lagann",
+      "Getter Robo"
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 15,
+    question: "What is the main sport featured in ‘Haikyuu!!’?",
+    answer: "Volleyball",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Tennis",
+      "Soccer",
+      "Basketball",
+      "Volleyball"
     ]
   },
   {
