@@ -6,7 +6,7 @@ body {
   font-size: 12px;
   font-family: "Roboto", sans-serif;
   color: #fff;
-  background: url('')
+  background: url('/Images/Background/anime-background.jpg')
     no-repeat center center fixed;
   background-size: cover;
 }
