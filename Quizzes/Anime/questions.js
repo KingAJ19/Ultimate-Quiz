@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "Regression testing is primarily related to",
-    answer: "Functional testing",
+    question: "What is the highest grossing anime film of all time?",
+    answer: "Mugen Train",
     options: [
-      "Maintenance testing",
-      "Data flow testing",
-      "Functional testing",
-      "Development testing"
+      "Grave Of The Fireflies",
+      "Your Name",
+      "Mugen Train",
+      "Dragon Ball Super: Broly"
     ]
   },
     {
