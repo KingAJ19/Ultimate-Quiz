@@ -121,14 +121,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 12,
+    question: "What type of food does Naruto Uzumaki love the most?",
+    answer: "Ramen",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Dango",
+      "Ramen",
+      "Curry Of Life",
+      "Onigiri"
     ]
   },
   {
