@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Of the following sort algorithms, which has execution time that is least dependent on initial ordering of the input ?",
-    answer: "Merge sort",
+    question: "What popular anime features a notebook that can kill people by writing their names in it?",
+    answer: "Death Note",
     options: [
-      "Selection sort",
-      "Insertion sort",
-      "Quick sort",
-      "Merge sort"
+      "Love Tyrant",
+      "Death Parade",
+      "Death Note",
+      "FullMetal Alchemist"
     ]
   },
     {
