@@ -99,14 +99,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 10,
+    question: "What is the name of the currency in ‘One Piece’?",
+    answer: "Belly",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Belly",
+      "Zeni",
+      "Double Dollar",
+      "Woolong"
     ]
   },
   {
