@@ -231,14 +231,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 22,
+    question: "In ‘Death Note’, what is the name of the Shinigami who drops the Death Note?",
+    answer: "Ryuk",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Ryuk",
+      "Midora",
+      "Rem",
+      "Sidoh"
     ]
   },
   {
