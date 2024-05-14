@@ -202,21 +202,21 @@ let questions = [
     question: "In ‘JoJo’s Bizarre Adventure’, what are the supernatural abilities used by characters known as?",
     answer: "Stands",
     options: [
-      "The Geass",
+      "Geass",
       "Rinnegan",
       "Ultra Instinct",
       "Stands"
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 20,
+    question: "Who is the protagonist of ‘Fairy Tail’?",
+    answer: "Natsu Dragneel",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Erza Scarlet",
+      "Natsu Dragneel",
+      "Lucy Heartfilia",
+      "Grey Fullbuster"
     ]
   },
   {
