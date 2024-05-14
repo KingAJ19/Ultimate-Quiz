@@ -44,14 +44,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 5,
+    question: "In Naruto, what is the highest rank a ninja can achieve?",
+    answer: "Hokage",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Chūnin",
+      "Hokage",
+      "Jōnin",
+      "Genin"
     ]
   },
   {
