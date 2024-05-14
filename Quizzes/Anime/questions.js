@@ -176,25 +176,25 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 17,
+    question: "In ‘My Hero Academia’, what is All Might’s quirk?",
+    answer: "One For All",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "All For One",
+      "Whirlwind",
+      "One For All",
+      "Shield"
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 18,
+    question: "Who is the original creator of the ‘One Piece’ manga?",
+    answer: "Eiichiro Oda",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Eiichiro Oda",
+      "Tatsuki Fujimoto",
+      "Akira Toriyama",
+      "Makoto Yukimura"
     ]
   },
   {
