@@ -43,6 +43,380 @@ let questions = [
       "Bodacious Space Pirates"
     ]
   },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
+  {
+    numb: 4,
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
+    options: [
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
+    ]
+  },
     
 ];
 
