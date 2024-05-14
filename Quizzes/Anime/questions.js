@@ -407,14 +407,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 38,
+    question: "Which anime series centers around a warrior named Kenshiro?",
+    answer: "Fist of the North Star",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Fist of the North Star",
+      "Baki",
+      "Trigun",
+      "JoJo's Bizarre Adventure"
     ]
   },
     
