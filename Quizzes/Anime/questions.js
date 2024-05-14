@@ -341,14 +341,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 32,
+    question: "Who was the first member of the First Levi Squad to die in ‘Attack on Titan’?",
+    answer: "Gunther",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Eld",
+      "Gunther",
+      "Petra",
+      "Connie"
     ]
   },
   {
