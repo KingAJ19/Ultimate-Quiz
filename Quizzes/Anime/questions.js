@@ -132,14 +132,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 13,
+    question: "Who is the ‘Fullmetal Alchemist’?",
+    answer: "Edward Elric",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Alphonse Elric",
+      "Ling Yao",
+      "Roy Mustang",
+      "Edward Elric"
     ]
   },
   {
