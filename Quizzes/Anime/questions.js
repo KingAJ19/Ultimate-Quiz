@@ -363,14 +363,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 34,
+    question: "This pink-haired girl is completely obsessed with her love for Yuki, which she professes in her ‘Yukiteru diary’. Who is she?",
+    answer: "Yuno Gasai",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Minene Uryuu",
+      "Tsubaki Kasugano",
+      "Yuno Gasai",
+      "Ai Mikami"
     ]
   },
   {
