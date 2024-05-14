@@ -110,14 +110,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 11,
+    question: "What’s the name of Goku’s wife in the ‘Dragon Ball’ series?",
+    answer: "Chi-Chi",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Mai",
+      "Bulma",
+      "Chi-Chi",
+      "Caulifla"
     ]
   },
   {
