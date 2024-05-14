@@ -34,13 +34,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "The domain of the function log( log sin(x) ) is",
-    answer: "Empty set",
+    question: "What anime has a protagonist who aims to become the Pirate King?",
+    answer: "One Piece",
     options: [
-      "0 < x < π",
-      "Empty set",
-      "0 < x < π",
-      "2nπ < x < (2n + 1) π , for n in N "
+      "One Piece",
+      "Sol Bianca: The Legacy",
+      "Queen Emeraldas",
+      "Bodacious Space Pirates"
     ]
   },
     
