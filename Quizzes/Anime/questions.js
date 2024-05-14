@@ -88,14 +88,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 9,
+    question: "What is the unique power system in ‘Hunter x Hunter’ called?",
+    answer: "Nen",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Cursed Energy",
+      "Ki",
+      "Nen",
+      "Chakra"
     ]
   },
   {
