@@ -330,14 +330,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 31,
+    question: "Which is the first song used as an opening for ‘Naruto’?",
+    answer: "‘Rocks’ by Hound Dog",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "‘Lovers’ by Seven Oops",
+      "‘Empty Hearts’ by Anly",
+      "‘Rocks’ by Hound Dog",
+      "‘Far Away’ by Asian Kung-Fu Generation"
     ]
   },
   {
