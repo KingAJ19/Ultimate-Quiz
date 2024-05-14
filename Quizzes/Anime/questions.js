@@ -275,14 +275,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 26,
+    question: "Who solved the Millennium Puzzle?",
+    answer: "Yugi Mutou",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Seto Kaiba",
+      "Maximillion Pegasus",
+      "Yugi Mutou",
+      "Yami Bakura"
     ]
   },
   {
