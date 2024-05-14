@@ -286,14 +286,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 27,
+    question: "Which anime series revolves around a boy who sells his soul to a demon?",
+    answer: "Black Butler",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Naruto",
+      "Black Butler",
+      "Blue Exorcist",
+      "Claymore"
     ]
   },
   {
