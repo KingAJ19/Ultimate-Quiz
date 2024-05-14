@@ -297,14 +297,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 28,
+    question: "Whose body gained the properties of rubber after unintentionally eating a Devil Fruit?",
+    answer: "Monkey D. Luffy",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Monkey D. Luffy",
+      "Prince Grus",
+      "Charlotte Katakuri",
+      "Marco"
     ]
   },
   {
