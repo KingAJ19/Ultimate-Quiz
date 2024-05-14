@@ -165,14 +165,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 16,
+    question: "Who is the founder and first Hokage of the Hidden Leaf Village in ‘Naruto’?",
+    answer: "Hashirama Senju",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Tobirama Senju",
+      "Hashirama Senju",
+      "Hiruzen Sarutobi",
+      "Tsunade"
     ]
   },
   {
