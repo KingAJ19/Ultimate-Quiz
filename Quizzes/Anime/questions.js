@@ -12,13 +12,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What is the defect rate for Six sigma",
-    answer: "3.4 defects per million lines of code",
+    question: "What is the first anime ever produced?",
+    answer: "Nakamura Gatana",
     options: [
-      "3.0 defects per million lines of code",
-      "3.4 defects per million lines of code",
-      "1.4 defects per million lines of code",
-      "1.0 defect per million lines of code"
+      "Nakamura Gatana",
+      "Sailor Moon",
+      "Neon Genesis Evangelion",
+      "Rurouni Kenshin"
     ]
   },
     {
