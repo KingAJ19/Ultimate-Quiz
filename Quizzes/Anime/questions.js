@@ -77,14 +77,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 8,
+    question: "Who is the highest-ranking hero in ‘One Punch Man’?",
+    answer: "Blast",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Blast",
+      "Tornado of Terror",
+      "Drive Knight",
+      "Silver Fang"
     ]
   },
   {
