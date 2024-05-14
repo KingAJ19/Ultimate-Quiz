@@ -198,14 +198,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 19,
+    question: "In ‘JoJo’s Bizarre Adventure’, what are the supernatural abilities used by characters known as?",
+    answer: "Stands",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "The Geass",
+      "Rinnegan",
+      "Ultra Instinct",
+      "Stands"
     ]
   },
   {
