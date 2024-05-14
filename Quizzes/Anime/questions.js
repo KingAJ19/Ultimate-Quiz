@@ -66,14 +66,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 7,
+    question: "What is the name of the virtual world in ‘Sword Art Online’?",
+    answer: "Aincrad",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Underworld",
+      "Gun Gale",
+      "Alfheim",
+      "Aincrad"
     ]
   },
   {
