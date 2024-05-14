@@ -308,14 +308,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 29,
+    question: "In the anime ‘Claymore’, who was the most powerful of the ‘Awakened Beings’?",
+    answer: "Priscilla",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Irene",
+      "Rosemary",
+      "Teresa",
+      "Priscilla"
     ]
   },
   {
