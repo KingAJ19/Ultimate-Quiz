@@ -319,14 +319,14 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    numb: 30,
+    question: "In ‘Clannad’, when Sanae first met Okazaki, which kind of bread does she offer to him?",
+    answer: "Sweet Bean Bread",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "Sweet Bean Bread",
+      "Red Bean Bun",
+      "Dango",
+      "Ramen"
     ]
   },
   {
