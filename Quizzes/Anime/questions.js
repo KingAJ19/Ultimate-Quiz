@@ -484,14 +484,14 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 45,
+    question: "In the anime series 'Bleach,' what is the name of the main character who becomes a Soul Reaper?",
+    answer: "Ichigo Kurosaki",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Renji Abarai", 
+      "Rukia Kuchiki",
+      "Karin Kurosaki",
+      "Ichigo Kurosaki"
     ]
   },
   {
