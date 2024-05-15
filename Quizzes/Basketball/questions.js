@@ -331,13 +331,13 @@ let questions = [
   },
   {
     numb: 31,
-    question: "Which is the first song used as an opening for ‘Naruto’?",
-    answer: "‘Rocks’ by Hound Dog",
+    question: "Who owns the Los Angeles Lakers?",
+    answer: "Jeanie Buss",
     options: [
-      "‘Lovers’ by Seven Oops",
-      "‘Empty Hearts’ by Anly",
-      "‘Rocks’ by Hound Dog",
-      "‘Far Away’ by Asian Kung-Fu Generation"
+      "Joe Lacob",
+      "Tilman Fertitta",
+      "Jeanie Buss",
+      "Herbert Simon"
     ]
   },
   {
