@@ -507,13 +507,13 @@ let questions = [
   },
   {
     numb: 47,
-    question: "What is the name of the navigator and thief who joins Luffy on his journey in the 'One Piece' manga series?",
-    answer: "Nami",
+    question: "Which team drafted Giannis Antetokounmpo in 2013?",
+    answer: "Milwaukee Bucks",
     options: [
-      "Zoro", 
-      "Nami",
-      "Robin",
-      "Chopper"
+      "Indiana Pacers", 
+      "Milwaukee Bucks",
+      "Oklohoma City Thunder",
+      "Cleveland Cavaliers"
     ]
   },
   {
