@@ -45,13 +45,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Which NBA team has made the most appearances in the finals?",
-    answer: "Los Angeles Lakers",
+    question: "David Seaman represented which country internationally?",
+    answer: "England",
     options: [
-      "Boston Celtics",
-      "Los Angeles Lakers",
-      "Dallas Mavericks",
-      "Detroit Pistons"
+      "Germany",
+      "England",
+      "Hungary",
+      "France"
     ]
   },
   {
