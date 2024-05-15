@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "George Gervin’s 'most points scored in a quarter’ record was broken in 2015, by this player—who still holds the record today",
-    answer: "Klay Thompson",
+    question: "Who scored with his hand in the 1986 World Cup quarterfinals against England?",
+    answer: "Diego Maradona",
     options: [
-      "Kevin Love",
-      "Devin Booker",
-      "Klay Thompson",
-      "James Harden"
+      "Zinedine Zidane",
+      "Pele",
+      "Diego Maradona",
+      "Ronaldo"
     ]
   },
     {
