@@ -100,13 +100,13 @@ let questions = [
   },
   {
     numb: 10,
-    question: "What is the name of the currency in ‘One Piece’?",
-    answer: "Belly",
+    question: "This player has the most turnovers in the Finals",
+    answer: "LeBron James",
     options: [
-      "Belly",
-      "Zeni",
-      "Double Dollar",
-      "Woolong"
+      "LeBron James",
+      "Magic Johnson",
+      "Kobe Bryant",
+      "Kareem Abdul-Jabbar"
     ]
   },
   {
