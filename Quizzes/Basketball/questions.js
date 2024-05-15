@@ -243,13 +243,13 @@ let questions = [
   },
   {
     numb: 23,
-    question: "Who is the protagonist in ‘Inuyasha’?",
-    answer: "Inuyasha",
+    question: "How many championships did the Boston Celtics win from 1957 to 1969?",
+    answer: "11",
     options: [
-      "Kagome",
-      "Shippo",
-      "Inuyasha",
-      "Kirara"
+      "10",
+      "13",
+      "11",
+      "9"
     ]
   },
   {
