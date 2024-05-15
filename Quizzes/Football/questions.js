@@ -56,13 +56,13 @@ let questions = [
   },
   {
     numb: 6,
-    question: "The Lakers are tied with what other NBA team with 17 Championships?",
-    answer: "Boston Celtics",
+    question: "Ex-Arsenal player Dennis Bergkamp is from which country?",
+    answer: "Netherlands",
     options: [
-      "Golden State Warriors",
-      "Chicago Bulls",
-      "Boston Celtics",
-      "New York Knicks"
+      "England",
+      "France",
+      "Netherlands",
+      "Italy"
     ]
   },
   {
