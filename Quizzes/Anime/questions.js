@@ -507,13 +507,13 @@ let questions = [
   },
   {
     numb: 47,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    question: "What is the name of the navigator and thief who joins Luffy on his journey in the 'One Piece' manga series?",
+    answer: "Nami",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Zoro", 
+      "Nami",
+      "Robin",
+      "Chopper"
     ]
   },
   {
