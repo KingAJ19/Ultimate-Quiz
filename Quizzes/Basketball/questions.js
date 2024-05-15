@@ -265,13 +265,13 @@ let questions = [
   },
   {
     numb: 25,
-    question: "In ‘One Punch Man’, who is Saitama’s disciple?",
-    answer: "Genos",
+    question: "Which team did Larry Bird coach during the 1997-98 season?",
+    answer: "Indian Pacers",
     options: [
-      "Metal Bat",
-      "Zombieman",
-      "King",
-      "Genos"
+      "Oklohoma City Thunder",
+      "Brooklyn Nets",
+      "New York Knicks",
+      "Indian Pacers"
     ]
   },
   {
