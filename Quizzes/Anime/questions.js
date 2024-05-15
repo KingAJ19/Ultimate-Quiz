@@ -495,14 +495,14 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 46,
+    question: "Which anime series features a group of high school students forming a music band called 'Hokago Tea Time'?",
+    answer: "K-On!",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Clannad", 
+      "Tamako Market",
+      "K-On!",
+      "Blue Period"
     ]
   },
   {
