@@ -166,13 +166,13 @@ let questions = [
   },
   {
     numb: 16,
-    question: "Which was the first team to make it to the NBA finals ten years running?",
-    answer: "Boston Celtics",
+    question: "Steven Gerrard & Wayne Rooney are both from which English city?",
+    answer: "Liverpool",
     options: [
-      "Chicago Bulls",
-      "Boston Celtics",
-      "Los Angeles Lakers",
-      "Washington Wizards"
+      "Manchester",
+      "Liverpool",
+      "Swansea",
+      "Bristol"
     ]
   },
   {
