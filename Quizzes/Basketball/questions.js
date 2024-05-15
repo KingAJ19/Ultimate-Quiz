@@ -397,13 +397,13 @@ let questions = [
   },
   {
     numb: 37,
-    question: "Who is known as the ‘One Punch Man’?",
-    answer: "Saitama",
+    question: "When was basketball first introduced into the Olympics?",
+    answer: "1936",
     options: [
-      "King",
-      "Saitama",
-      "Bushidrill",
-      "Twin Tail"
+      "1940",
+      "1936",
+      "1950",
+      "1935"
     ]
   },
   {
