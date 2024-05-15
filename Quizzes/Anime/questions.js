@@ -528,6 +528,17 @@ let questions = [
     ]
   },
   {
+    numb: 49,
+    question: "Who is Naruto's teacher in the 'Naruto' manga series?",
+    answer: "Iruka",
+    options: [
+      "Hiruzen", 
+      "Asuma",
+      "Iruka",
+      "Tsunade"
+    ]
+  },
+  {
     numb: 50,
     question: "At the conclusion of the 'Naruto' manga series, who does Naruto marry?",
     answer: "Hinata",
