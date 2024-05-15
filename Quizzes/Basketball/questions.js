@@ -364,13 +364,13 @@ let questions = [
   },
   {
     numb: 34,
-    question: "This pink-haired girl is completely obsessed with her love for Yuki, which she professes in her ‘Yukiteru diary’. Who is she?",
-    answer: "Yuno Gasai",
+    question: "How tall is the hoop in the NBA?",
+    answer: "10 feet",
     options: [
-      "Minene Uryuu",
-      "Tsubaki Kasugano",
-      "Yuno Gasai",
-      "Ai Mikami"
+      "9 feet",
+      "12 feet",
+      "10 feet",
+      "13 feet"
     ]
   },
   {
