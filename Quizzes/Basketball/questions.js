@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What popular anime features a notebook that can kill people by writing their names in it?",
-    answer: "Death Note",
+    question: "The National Basketball Association was originally called what?",
+    answer: "The Basketball Association of America",
     options: [
-      "Love Tyrant",
-      "Death Parade",
-      "Death Note",
-      "FullMetal Alchemist"
+      "The National NBA",
+      "The National Basketball League",
+      "The National Basketball Association",
+      "The Basketball Association of America"
     ]
   },
     {
