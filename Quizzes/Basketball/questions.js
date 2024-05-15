@@ -529,24 +529,24 @@ let questions = [
   },
   {
     numb: 49,
-    question: "Who is Naruto's teacher in the 'Naruto' manga series?",
-    answer: "Iruka",
+    question: "Who is the current NBA commissioner? ",
+    answer: "Adam Silver",
     options: [
-      "Hiruzen", 
-      "Asuma",
-      "Iruka",
-      "Tsunade"
+      "Larry O'Brien", 
+      "Maurice Podoloff",
+      "Adam Silver",
+      "David Stern"
     ]
   },
   {
     numb: 50,
-    question: "At the conclusion of the 'Naruto' manga series, who does Naruto marry?",
-    answer: "Hinata",
+    question: "Micheal Jordan famously retired from basketball in 1993. What sport did he go on to play instead? ",
+    answer: "Baseball",
     options: [
-      "Hinata", 
-      "Sakura",
-      "Ino",
-      "Tenten"
+      "Baseball", 
+      "Tennis",
+      "Cricket",
+      "Golf"
     ]
   },
     
