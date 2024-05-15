@@ -155,13 +155,13 @@ let questions = [
   },
   {
     numb: 15,
-    question: "What is the main sport featured in ‘Haikyuu!!’?",
-    answer: "Volleyball",
+    question: "Which player managed to win the NBA Finals MVP Award, even though they were on the losing team?",
+    answer: "Jerry West",
     options: [
-      "Tennis",
-      "Soccer",
-      "Basketball",
-      "Volleyball"
+      "Kevin Durant",
+      "Wilt Chamberlain",
+      "Magic Johnson",
+      "Jerry West"
     ]
   },
   {
