@@ -210,13 +210,13 @@ let questions = [
   },
   {
     numb: 20,
-    question: "Who is the protagonist of ‘Fairy Tail’?",
-    answer: "Natsu Dragneel",
+    question: "Which team won the first NBA Championship?",
+    answer: "Philadelphia Warriors",
     options: [
-      "Erza Scarlet",
-      "Natsu Dragneel",
-      "Lucy Heartfilia",
-      "Grey Fullbuster"
+      "Anderson Packers",
+      "Philadelphia Warriors",
+      "Indianapolis Jets",
+      "Waterloo Hawks"
     ]
   },
   {
