@@ -34,13 +34,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What anime has a protagonist who aims to become the Pirate King?",
-    answer: "One Piece",
+    question: "Held in Boston Madison Square Garden Club, the first NBA All-Star game took place in what year?",
+    answer: "1951",
     options: [
-      "One Piece",
-      "Sol Bianca: The Legacy",
-      "Queen Emeraldas",
-      "Bodacious Space Pirates"
+      "1960",
+      "1950",
+      "1951",
+      "1975"
     ]
   },
   {
