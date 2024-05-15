@@ -353,13 +353,13 @@ let questions = [
   },
   {
     numb: 33,
-    question: "As prophesied, Goku transformed into the Super Saiyan form in ‘Dragon Ball Z’. Where did this transformation take place?",
-    answer: "Planet Namek",
+    question: "When was the shot clock introduced into NBA regulation?",
+    answer: "1955",
     options: [
-      "Eros",
-      "Planet Arlia",
-      "Planet Vegeta",
-      "Planet Namek"
+      "1990",
+      "1950",
+      "1962",
+      "1955"
     ]
   },
   {
