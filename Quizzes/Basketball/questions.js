@@ -309,13 +309,13 @@ let questions = [
   },
   {
     numb: 29,
-    question: "In the anime ‘Claymore’, who was the most powerful of the ‘Awakened Beings’?",
-    answer: "Priscilla",
+    question: "Who was the first player in the NBA to hit an elusive triple-double season?",
+    answer: "Oscar Robertson",
     options: [
-      "Irene",
-      "Rosemary",
-      "Teresa",
-      "Priscilla"
+      "Nikola Jokic",
+      "Russell Westbrook",
+      "LeBron James",
+      "Oscar Robertson"
     ]
   },
   {
