@@ -100,13 +100,13 @@ let questions = [
   },
   {
     numb: 10,
-    question: "This player has the most turnovers in the Finals",
-    answer: "LeBron James",
+    question: "Gareth Bale plays for which country?",
+    answer: "Wales",
     options: [
-      "LeBron James",
-      "Magic Johnson",
-      "Kobe Bryant",
-      "Kareem Abdul-Jabbar"
+      "Wales",
+      "Sweden",
+      "Finland",
+      "Scotland"
     ]
   },
   {
