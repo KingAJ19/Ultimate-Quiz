@@ -529,13 +529,13 @@ let questions = [
   },
   {
     numb: 50,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    question: "At the conclusion of the 'Naruto' manga series, who does Naruto marry?",
+    answer: "Hinata",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Hinata", 
+      "Sakura",
+      "Ino",
+      "Tenten"
     ]
   },
     
