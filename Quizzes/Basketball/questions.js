@@ -45,13 +45,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "In Naruto, what is the highest rank a ninja can achieve?",
-    answer: "Hokage",
+    question: "Which NBA team has made the most appearances in the finals?",
+    answer: "Los Angeles Lakers",
     options: [
-      "Chūnin",
-      "Hokage",
-      "Jōnin",
-      "Genin"
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Dallas Mavericks",
+      "Detroit Pistons"
     ]
   },
   {
