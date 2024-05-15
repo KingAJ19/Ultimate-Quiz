@@ -144,13 +144,13 @@ let questions = [
   },
   {
     numb: 14,
-    question: "In ‘Neon Genesis Evangelion’, what are the giant bio-machines piloted by the main characters called?",
-    answer: "Evangelions",
+    question: "What NBA team has made the most franchise Final appearances without winning a title?",
+    answer: "Phoenix Suns",
     options: [
-      "Evangelions",
-      "Angels",
-      "Gurren Lagann",
-      "Getter Robo"
+      "Miami Heat",
+      "Houston Rockets",
+      "Phoenix Suns",
+      "Indiana Pacers"
     ]
   },
   {
