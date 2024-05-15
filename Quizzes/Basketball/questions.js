@@ -320,13 +320,13 @@ let questions = [
   },
   {
     numb: 30,
-    question: "In ‘Clannad’, when Sanae first met Okazaki, which kind of bread does she offer to him?",
-    answer: "Sweet Bean Bread",
+    question: "The first NBA athlete to win both the MVP and Rookie of the Year titles in the same season?",
+    answer: "Wilt Chamberlain",
     options: [
-      "Sweet Bean Bread",
-      "Red Bean Bun",
-      "Dango",
-      "Ramen"
+      "Wilt Chamberlain",
+      "Derrick Rose",
+      "Magic Johnson",
+      "Stephen Curry"
     ]
   },
   {
