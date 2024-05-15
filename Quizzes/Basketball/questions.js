@@ -298,13 +298,13 @@ let questions = [
   },
   {
     numb: 28,
-    question: "Whose body gained the properties of rubber after unintentionally eating a Devil Fruit?",
-    answer: "Monkey D. Luffy",
+    question: "Who was the first player to win the MVP in consecutive seasons?",
+    answer: "Bill Russell",
     options: [
-      "Monkey D. Luffy",
-      "Prince Grus",
-      "Charlotte Katakuri",
-      "Marco"
+      "Bill Russell",
+      "Wilt Chamberlain",
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan"
     ]
   },
   {
