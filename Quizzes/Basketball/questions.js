@@ -463,11 +463,11 @@ let questions = [
   },
   {
     numb: 43,
-    question: "Who is the creator of the popular anime and manga series 'Naruto'?",
-    answer: "Masashi Kishimoto",
+    question: "Which NBA team won eight consecutive championships from 1959 to 1966?",
+    answer: "Boston Celtics",
     options: [
-      "Masashi Kishimoto", 
-      "Naoki Urasawa",
+      "Boston Celtics", 
+      "Los Angeles Lakers",
       "Akira Toriyama",
       "Eiichiro Oda"
     ]
