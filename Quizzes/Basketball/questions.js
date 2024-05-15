@@ -89,13 +89,13 @@ let questions = [
   },
   {
     numb: 9,
-    question: "What is the unique power system in ‘Hunter x Hunter’ called?",
-    answer: "Nen",
+    question: "Which player has the most career blocks in the Finals?",
+    answer: "Kareem Abdul-Jabbar",
     options: [
-      "Cursed Energy",
-      "Ki",
-      "Nen",
-      "Chakra"
+      "Shaquille O'Neal",
+      "Tim Duncan",
+      "Kareem Abdul-Jabbar",
+      "Hakeem Olajuwon"
     ]
   },
   {
