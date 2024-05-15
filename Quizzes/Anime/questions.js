@@ -462,25 +462,25 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 43,
+    question: "Who is the creator of the popular anime and manga series 'Naruto'?",
+    answer: "Masashi Kishimoto",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Masashi Kishimoto", 
+      "Naoki Urasawa",
+      "Akira Toriyama",
+      "Eiichiro Oda"
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 44,
+    question: "What is the name of the magical girl protagonist in the anime series 'Sailor Moon'?",
+    answer: "Usagi Tsukino",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Rei Hino", 
+      "Lilica Hubert",
+      "Usagi Tsukino",
+      "Hotaru Tomoe"
     ]
   },
   {
