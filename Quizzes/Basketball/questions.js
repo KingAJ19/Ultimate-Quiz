@@ -452,13 +452,13 @@ let questions = [
   },
   {
     numb: 42,
-    question: "Which anime tells the tale of a heroic gunslinger with a $60 billion dollar bounty on his head?",
-    answer: "Trigun",
+    question: "How many NBA officials are in a game? ",
+    answer: "3",
     options: [
-      "Trigun", 
-      "One Piece",
-      "Cowboy Bebop",
-      "Angel Beats"
+      "3", 
+      "2",
+      "4",
+      "5"
     ]
   },
   {
