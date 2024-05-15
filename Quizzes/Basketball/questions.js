@@ -441,13 +441,13 @@ let questions = [
   },
   {
     numb: 41,
-    question: "What is the longest-running anime series?",
-    answer: "Sazae-san",
+    question: "Magic Johnson was inducted into the NBA Hall of Fame in what year?",
+    answer: "2002",
     options: [
-      "Nintama Rantaro", 
-      "Ojarumaru",
-      "Oyako Club",
-      "Sazae-san"
+      "1999", 
+      "2000",
+      "2001",
+      "2002"
     ]
   },
   {
