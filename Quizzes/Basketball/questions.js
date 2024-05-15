@@ -188,13 +188,13 @@ let questions = [
   },
   {
     numb: 18,
-    question: "Who is the original creator of the ‘One Piece’ manga?",
-    answer: "Eiichiro Oda",
+    question: "The last team to sweep their opponent in a Final",
+    answer: "Golden State Warriors",
     options: [
-      "Eiichiro Oda",
-      "Tatsuki Fujimoto",
-      "Akira Toriyama",
-      "Makoto Yukimura"
+      "Detroit Pistons",
+      "Cleveland Cavaliers",
+      "Golden State Warriors",
+      "San Antonio Spurs"
     ]
   },
   {
