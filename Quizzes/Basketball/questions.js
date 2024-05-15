@@ -79,7 +79,7 @@ let questions = [
   {
     numb: 8,
     question: "The first and only team based outside the United States to win an NBA title or reach the NBA Finals",
-    answer: "Blast",
+    answer: "Toronto Raptors",
     options: [
       "Milwaukee Bucks",
       "Denver Nuggets",
