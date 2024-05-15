@@ -506,7 +506,7 @@ let questions = [
     ]
   },
   {
-    numb: 38,
+    numb: 47,
     question: "Which anime series centers around a warrior named Kenshiro?",
     answer: "Fist of the North Star",
     options: [
@@ -517,7 +517,7 @@ let questions = [
     ]
   },
   {
-    numb: 38,
+    numb: 49,
     question: "Which anime series centers around a warrior named Kenshiro?",
     answer: "Fist of the North Star",
     options: [
@@ -528,18 +528,7 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
-    options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
-    ]
-  },
-  {
-    numb: 38,
+    numb: 50,
     question: "Which anime series centers around a warrior named Kenshiro?",
     answer: "Fist of the North Star",
     options: [
