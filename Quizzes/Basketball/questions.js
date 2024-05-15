@@ -221,13 +221,13 @@ let questions = [
   },
   {
     numb: 21,
-    question: "In ‘Tokyo Ghoul’, what do ghouls eat?",
-    answer: "Human flesh",
+    question: "The first team to hire a woman on their coaching staff?",
+    answer: "San Antonio Spurs",
     options: [
-      "Nothing",
-      "Burger King",
-      "Coffee",
-      "Human flesh"
+      "Dallas Mavericks",
+      "Brooklyn Nets",
+      "Atlanta Hawks",
+      "San Antonio Spurs"
     ]
   },
   {
