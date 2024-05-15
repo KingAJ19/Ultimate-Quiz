@@ -144,13 +144,13 @@ let questions = [
   },
   {
     numb: 14,
-    question: "What NBA team has made the most franchise Final appearances without winning a title?",
-    answer: "Phoenix Suns",
+    question: "David Beckham played for which MLS team in the United States?",
+    answer: "LA Galaxy",
     options: [
-      "Miami Heat",
-      "Houston Rockets",
-      "Phoenix Suns",
-      "Indiana Pacers"
+      "Atalanta United",
+      "Inter Miami",
+      "LA Galaxy",
+      "Orlando City"
     ]
   },
   {
