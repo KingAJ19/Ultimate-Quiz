@@ -408,13 +408,13 @@ let questions = [
   },
   {
     numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    question: "How many teams play in the NBA?",
+    answer: "30",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "30", 
+      "27",
+      "20",
+      "34"
     ]
   },
   {
