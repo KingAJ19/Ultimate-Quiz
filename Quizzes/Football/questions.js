@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "The National Basketball Association was originally called what?",
-    answer: "The Basketball Association of America",
+    question: "Complete the name of this former Premier League team. Charlton _____",
+    answer: "Athletic",
     options: [
-      "The National NBA",
-      "The National Basketball League",
-      "The National Basketball Association",
-      "The Basketball Association of America"
+      "Wycombe",
+      "Barnsley",
+      "Wigan",
+      "Athletic"
     ]
   },
     {
