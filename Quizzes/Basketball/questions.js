@@ -419,13 +419,13 @@ let questions = [
   },
   {
     numb: 39,
-    question: "What is the name of Speed Racer’s girlfriend?",
-    answer: "Trixie",
+    question: "Who was the 2001 number 1 overall pick in the draft?",
+    answer: "Kwame Brown",
     options: [
-      "Kurio", 
-      "Sparky",
-      "Junko",
-      "Trixie"
+      "Tyson Chandler", 
+      "Pau Gasol",
+      "Joe Johnson",
+      "Kwame Brown"
     ]
   },
   {
