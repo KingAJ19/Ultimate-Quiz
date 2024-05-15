@@ -133,13 +133,13 @@ let questions = [
   },
   {
     numb: 13,
-    question: "Who is the player that led in overall career point tally in the Finals?",
-    answer: "Jerry West",
+    question: "Former Arsenal manager Arsene Wenger is from which country?",
+    answer: "France",
     options: [
-      "Kareem Abdul-Jabbar",
-      "Michael Jordan",
-      "LeBron James",
-      "Jerry West"
+      "Italy",
+      "Portugal",
+      "Germany",
+      "France"
     ]
   },
   {
