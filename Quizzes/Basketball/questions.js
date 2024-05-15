@@ -199,13 +199,13 @@ let questions = [
   },
   {
     numb: 19,
-    question: "In ‘JoJo’s Bizarre Adventure’, what are the supernatural abilities used by characters known as?",
-    answer: "Stands",
+    question: "This team has the best winning percentage in the Finals",
+    answer: "Chicago Bulls",
     options: [
-      "Geass",
-      "Rinnegan",
-      "Ultra Instinct",
-      "Stands"
+      "Miami Heat",
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls"
     ]
   },
   {
