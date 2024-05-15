@@ -34,13 +34,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Held in Boston Madison Square Garden Club, the first NBA All-Star game took place in what year?",
-    answer: "1951",
+    question: "John Terry spent his entire playing career at which club?",
+    answer: "Chelsea",
     options: [
-      "1960",
-      "1950",
-      "1951",
-      "1975"
+      "Manchester City",
+      "Juventus",
+      "Chelsea",
+      "Liverpool"
     ]
   },
   {
