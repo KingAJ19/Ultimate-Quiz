@@ -496,13 +496,13 @@ let questions = [
   },
   {
     numb: 46,
-    question: "Which anime series features a group of high school students forming a music band called 'Hokago Tea Time'?",
-    answer: "K-On!",
+    question: "Which famous player is the NBA logo modelled after? ",
+    answer: "Jerry West",
     options: [
-      "Clannad", 
-      "Tamako Market",
-      "K-On!",
-      "Blue Period"
+      "Larry Bird", 
+      "Steve Nash",
+      "Jerry West",
+      "Dirk Nowitzki"
     ]
   },
   {
