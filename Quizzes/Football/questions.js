@@ -128,7 +128,7 @@ let questions = [
       "Atletico Madrid",
       "Real Madrid",
       "Valencia",
-      ""
+      "Getafe"
     ]
   },
   {
