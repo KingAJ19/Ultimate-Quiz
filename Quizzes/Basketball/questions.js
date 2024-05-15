@@ -468,8 +468,8 @@ let questions = [
     options: [
       "Boston Celtics", 
       "Los Angeles Lakers",
-      "Akira Toriyama",
-      "Eiichiro Oda"
+      "Chicago Bulls",
+      "Miami Heat"
     ]
   },
   {
