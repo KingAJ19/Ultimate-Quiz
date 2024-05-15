@@ -177,13 +177,13 @@ let questions = [
   },
   {
     numb: 17,
-    question: "In ‘My Hero Academia’, what is All Might’s quirk?",
-    answer: "One For All",
+    question: "A legendary player, he had the most NBA Finals appearances",
+    answer: "Bill Russell",
     options: [
-      "All For One",
-      "Whirlwind",
-      "One For All",
-      "Shield"
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Bill Russell",
+      "Kareem Abdul-Jabbar"
     ]
   },
   {
