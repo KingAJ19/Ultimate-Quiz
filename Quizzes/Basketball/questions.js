@@ -67,13 +67,13 @@ let questions = [
   },
   {
     numb: 7,
-    question: "What is the name of the virtual world in ‘Sword Art Online’?",
-    answer: "Aincrad",
+    question: "In 1995, this 6-seed was the lowest-seeded team in NBA history to win a Championship",
+    answer: "Houston Rockets",
     options: [
-      "Underworld",
-      "Gun Gale",
-      "Alfheim",
-      "Aincrad"
+      "Chicago Bulls",
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Houston Rockets"
     ]
   },
   {
