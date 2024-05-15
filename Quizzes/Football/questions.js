@@ -122,13 +122,13 @@ let questions = [
   },
   {
     numb: 12,
-    question: "This player had the most 3-point field goals, during one series of the Finals",
-    answer: "Steph Curry",
+    question: "David Beckham left Manchester United in 2003 to join which Spanish team?",
+    answer: "Real Madrid",
     options: [
-      "Klay Thompson",
-      "Steph Curry",
-      "LeBron James",
-      "James Harden"
+      "Atletico Madrid",
+      "Real Madrid",
+      "Valencia",
+      ""
     ]
   },
   {
