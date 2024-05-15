@@ -67,13 +67,13 @@ let questions = [
   },
   {
     numb: 7,
-    question: "In 1995, this 6-seed was the lowest-seeded team in NBA history to win a Championship",
-    answer: "Houston Rockets",
+    question: "Manchester United are also known as 'The Red .......'?",
+    answer: "Devils",
     options: [
-      "Chicago Bulls",
-      "Boston Celtics",
-      "Los Angeles Lakers",
-      "Houston Rockets"
+      "Bulls",
+      "Men",
+      "Kite",
+      "Devils"
     ]
   },
   {
