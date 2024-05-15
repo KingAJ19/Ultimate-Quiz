@@ -111,13 +111,13 @@ let questions = [
   },
   {
     numb: 11,
-    question: "In one series, who had the most steals?",
-    answer: "Isaiah Thomas",
+    question: "Complete the name of this former Premier League team. Bolton _____",
+    answer: "Wanderers",
     options: [
-      "Chris Paul",
-      "Alvin Robertson",
-      "Isaiah Thomas",
-      "Michael Ray Richardson"
+      "County",
+      "Vale",
+      "Wanderers",
+      "City"
     ]
   },
   {
