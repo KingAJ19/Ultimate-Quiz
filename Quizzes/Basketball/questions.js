@@ -122,13 +122,13 @@ let questions = [
   },
   {
     numb: 12,
-    question: "What type of food does Naruto Uzumaki love the most?",
-    answer: "Ramen",
+    question: "This player had the most 3-point field goals, during one series of the Finals",
+    answer: "Steph Curry",
     options: [
-      "Dango",
-      "Ramen",
-      "Curry Of Life",
-      "Onigiri"
+      "Klay Thompson",
+      "Steph Curry",
+      "LeBron James",
+      "James Harden"
     ]
   },
   {
