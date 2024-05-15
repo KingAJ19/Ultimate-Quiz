@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the highest grossing anime film of all time?",
-    answer: "Mugen Train",
+    question: "George Gervin’s 'most points scored in a quarter’ record was broken in 2015, by this player—who still holds the record today",
+    answer: "Klay Thompson",
     options: [
-      "Grave Of The Fireflies",
-      "Your Name",
-      "Mugen Train",
-      "Dragon Ball Super: Broly"
+      "Kevin Love",
+      "Devin Booker",
+      "Klay Thompson",
+      "James Harden"
     ]
   },
     {
