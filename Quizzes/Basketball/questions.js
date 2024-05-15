@@ -232,13 +232,13 @@ let questions = [
   },
   {
     numb: 22,
-    question: "In ‘Death Note’, what is the name of the Shinigami who drops the Death Note?",
-    answer: "Ryuk",
+    question: "In 2004 an altercation occurred mid-game between two teams in an incident that became known as ‘Malice at the Palace’. Which two teams were involved?",
+    answer: "Indiana Pacers & Detroit Pistons",
     options: [
-      "Ryuk",
-      "Midora",
-      "Rem",
-      "Sidoh"
+      "Indiana Pacers & Detroit Pistons",
+      "New York Knicks & Boston Celtics",
+      "Los Angeles Lakers & Miami Heat",
+      "Golden State Warriors & Phoenix Suns"
     ]
   },
   {
