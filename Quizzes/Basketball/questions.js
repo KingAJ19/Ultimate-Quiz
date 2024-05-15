@@ -430,13 +430,13 @@ let questions = [
   },
   {
     numb: 40,
-    question: "Who was the first character in ‘Dragon Ball Z’ who achieved the Super Saiyan 2?",
-    answer: "Gohan",
+    question: "Who won the NBA dunk contest in 2016",
+    answer: "Zach Lavine",
     options: [
-      "Goku", 
-      "Gohan",
-      "Vegeta",
-      "Trunks"
+      "Aaron Gordon", 
+      "Zach Lavine",
+      "Victor Oladipo",
+      "Will Barton"
     ]
   },
   {
