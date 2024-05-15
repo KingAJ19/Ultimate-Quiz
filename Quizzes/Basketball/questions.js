@@ -276,13 +276,13 @@ let questions = [
   },
   {
     numb: 26,
-    question: "Who solved the Millennium Puzzle?",
-    answer: "Yugi Mutou",
+    question: "Who was the shortest player to ever win the Slam Dunk contest?",
+    answer: "Spud Webb",
     options: [
-      "Seto Kaiba",
-      "Maximillion Pegasus",
-      "Yugi Mutou",
-      "Yami Bakura"
+      "Earl Boykins",
+      "Muggsy Bogues",
+      "Spud Webb",
+      "Keith Jennings"
     ]
   },
   {
