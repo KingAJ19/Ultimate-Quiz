@@ -485,13 +485,13 @@ let questions = [
   },
   {
     numb: 45,
-    question: "In the anime series 'Bleach,' what is the name of the main character who becomes a Soul Reaper?",
-    answer: "Ichigo Kurosaki",
+    question: "What number did Michael Jordan wear when playing for the Chicago Bulls? ",
+    answer: "23",
     options: [
-      "Renji Abarai", 
-      "Rukia Kuchiki",
-      "Karin Kurosaki",
-      "Ichigo Kurosaki"
+      "43", 
+      "30",
+      "21",
+      "23"
     ]
   },
   {
