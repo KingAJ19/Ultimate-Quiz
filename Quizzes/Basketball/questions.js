@@ -474,13 +474,13 @@ let questions = [
   },
   {
     numb: 44,
-    question: "What is the name of the magical girl protagonist in the anime series 'Sailor Moon'?",
-    answer: "Usagi Tsukino",
+    question: "Who is the Chicago Bulls mascot?",
+    answer: "Benny the Bull",
     options: [
-      "Rei Hino", 
-      "Lilica Hubert",
-      "Usagi Tsukino",
-      "Hotaru Tomoe"
+      "Lenny the Bull", 
+      "Kenny the Bull",
+      "Benny the Bull",
+      "Penny the Bull"
     ]
   },
   {
