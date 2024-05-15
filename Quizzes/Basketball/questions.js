@@ -12,13 +12,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What is the first anime ever produced?",
-    answer: "Nakamura Gatana",
+    question: "The first NBA game was played between the New York Knicks and the Toronto Huskies in what year?",
+    answer: "1946",
     options: [
-      "Nakamura Gatana",
-      "Sailor Moon",
-      "Neon Genesis Evangelion",
-      "Rurouni Kenshin"
+      "1946",
+      "1947",
+      "1960",
+      "1990"
     ]
   },
     {
