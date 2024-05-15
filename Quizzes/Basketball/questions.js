@@ -518,13 +518,13 @@ let questions = [
   },
   {
     numb: 48,
-    question: "In what year was the 'Slam Dunk' manga first published?",
-    answer: "1990",
+    question: "Who won the first official NBA game when it started?",
+    answer: "New York Knicks",
     options: [
-      "1992", 
-      "1991",
-      "1989",
-      "1990"
+      "Portland Trailblazers", 
+      "Brooklyn Nets",
+      "Los Angeles Lakers",
+      "New York Knicks"
     ]
   },
   {
