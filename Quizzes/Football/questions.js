@@ -155,13 +155,13 @@ let questions = [
   },
   {
     numb: 15,
-    question: "Which player managed to win the NBA Finals MVP Award, even though they were on the losing team?",
-    answer: "Jerry West",
+    question: "The city of Liverpool has two clubs in the Premier League - Liverpool & which other?",
+    answer: "Everton",
     options: [
-      "Kevin Durant",
-      "Wilt Chamberlain",
-      "Magic Johnson",
-      "Jerry West"
+      "West Ham",
+      "Crystal Palace",
+      "Sheffield United",
+      "Everton"
     ]
   },
   {
