@@ -342,13 +342,13 @@ let questions = [
   },
   {
     numb: 32,
-    question: "Who was the first member of the First Levi Squad to die in ‘Attack on Titan’?",
-    answer: "Gunther",
+    question: "How many personal fouls does it take to get ejected from an NBA basketball game?",
+    answer: "6",
     options: [
-      "Eld",
-      "Gunther",
-      "Petra",
-      "Connie"
+      "5",
+      "6",
+      "3",
+      "1"
     ]
   },
   {
