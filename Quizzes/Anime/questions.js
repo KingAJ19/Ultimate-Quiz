@@ -517,14 +517,14 @@ let questions = [
     ]
   },
   {
-    numb: 49,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 48,
+    question: "In what year was the 'Slam Dunk' manga first published?",
+    answer: "1990",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "1992", 
+      "1991",
+      "1989",
+      "1990"
     ]
   },
   {
