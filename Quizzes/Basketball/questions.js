@@ -166,13 +166,13 @@ let questions = [
   },
   {
     numb: 16,
-    question: "Who is the founder and first Hokage of the Hidden Leaf Village in ‘Naruto’?",
-    answer: "Hashirama Senju",
+    question: "Which was the first team to make it to the NBA finals ten years running?",
+    answer: "Boston Celtics",
     options: [
-      "Tobirama Senju",
-      "Hashirama Senju",
-      "Hiruzen Sarutobi",
-      "Tsunade"
+      "Chicago Bulls",
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Washington Wizards"
     ]
   },
   {
