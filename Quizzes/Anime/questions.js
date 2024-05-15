@@ -451,14 +451,14 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 42,
+    question: "Which anime tells the tale of a heroic gunslinger with a $60 billion dollar bounty on his head?",
+    answer: "Trigun",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Trigun", 
+      "One Piece",
+      "Cowboy Bebop",
+      "Angel Beats"
     ]
   },
   {
