@@ -386,13 +386,13 @@ let questions = [
   },
   {
     numb: 36,
-    question: "What was the first feature-length anime?",
-    answer: "Momotaro: Sacred Sailors",
+    question: "Who invented the sport of basketball?",
+    answer: "James Naismith",
     options: [
-      "Momotaro: Sacred Sailors",
-      "Horus: Prince of the Sun",
-      "Castle in the Sky",
-      "My Neighbor Totoro"
+      "James Naismith",
+      "Jerry West",
+      "Walter Meanwell",
+      "Serge Ibaka"
     ]
   },
   {
