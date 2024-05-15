@@ -440,14 +440,14 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 41,
+    question: "What is the longest-running anime series?",
+    answer: "Sazae-san",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Nintama Rantaro", 
+      "Ojarumaru",
+      "Oyako Club",
+      "Sazae-san"
     ]
   },
   {
