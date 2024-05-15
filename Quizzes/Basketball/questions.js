@@ -254,13 +254,13 @@ let questions = [
   },
   {
     numb: 24,
-    question: "In ‘Hunter x Hunter’, what is the name of Gon’s father?",
-    answer: "Ging Freecss",
+    question: "This Miami team joined the NBA in 1988",
+    answer: "Miami Heat",
     options: [
-      "Isaac Netero",
-      "Ging Freecss",
-      "Pariston Hill",
-      "Gashta Bellam"
+      "Orlando Magic",
+      "Miami Heat",
+      "Indiana Pacers",
+      "Memphia Grizzlies"
     ]
   },
   {
