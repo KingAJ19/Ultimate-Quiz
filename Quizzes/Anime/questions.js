@@ -418,7 +418,7 @@ let questions = [
     ]
   },
   {
-    numb: 38,
+    numb: 39,
     question: "What is the name of Speed Racer’s girlfriend?",
     answer: "Trixie",
     options: [
@@ -429,14 +429,14 @@ let questions = [
     ]
   },
   {
-    numb: 38,
-    question: "Which anime series centers around a warrior named Kenshiro?",
-    answer: "Fist of the North Star",
+    numb: 40,
+    question: "Who was the first character in ‘Dragon Ball Z’ who achieved the Super Saiyan 2?",
+    answer: "Gohan",
     options: [
-      "Fist of the North Star", 
-      "Baki",
-      "Trigun",
-      "JoJo's Bizarre Adventure"
+      "Goku", 
+      "Gohan",
+      "Vegeta",
+      "Trunks"
     ]
   },
   {
