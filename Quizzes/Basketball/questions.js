@@ -133,13 +133,13 @@ let questions = [
   },
   {
     numb: 13,
-    question: "Who is the ‘Fullmetal Alchemist’?",
-    answer: "Edward Elric",
+    question: "Who is the player that led in overall career point tally in the Finals?",
+    answer: "Jerry West",
     options: [
-      "Alphonse Elric",
-      "Ling Yao",
-      "Roy Mustang",
-      "Edward Elric"
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "LeBron James",
+      "Jerry West"
     ]
   },
   {
