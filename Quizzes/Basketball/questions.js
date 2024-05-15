@@ -287,13 +287,13 @@ let questions = [
   },
   {
     numb: 27,
-    question: "Which anime series revolves around a boy who sells his soul to a demon?",
-    answer: "Black Butler",
+    question: "Which player attempted a record number of free throws (39) in an NBA post-season game?",
+    answer: "Shaquille O’Neal",
     options: [
-      "Naruto",
-      "Black Butler",
-      "Blue Exorcist",
-      "Claymore"
+      "Bob Cousy",
+      "Shaquille O’Neal",
+      "DeAndre Jordan",
+      "Michael Jordan"
     ]
   },
   {
