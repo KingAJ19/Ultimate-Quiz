@@ -12,13 +12,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "The first NBA game was played between the New York Knicks and the Toronto Huskies in what year?",
-    answer: "1946",
+    question: "Ex-West Ham striker Paulo Di Canio was from which country?",
+    answer: "Italy",
     options: [
-      "1946",
-      "1947",
-      "1960",
-      "1990"
+      "Italy",
+      "Germany",
+      "Sweden",
+      "Spain"
     ]
   },
     {
