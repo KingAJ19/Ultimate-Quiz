@@ -56,13 +56,13 @@ let questions = [
   },
   {
     numb: 6,
-    question: "What is the name of the giant humanoid creatures in ‘Attack on Titan’?",
-    answer: "Titans",
+    question: "The Lakers are tied with what other NBA team with 17 Championships?",
+    answer: "Boston Celtics",
     options: [
-      "Titans",
-      "Monsters",
-      "Demons",
-      "Colossus"
+      "Golden State Warriors",
+      "Chicago Bulls",
+      "Boston Celtics",
+      "New York Knicks"
     ]
   },
   {
