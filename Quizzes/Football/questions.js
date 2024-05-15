@@ -89,13 +89,13 @@ let questions = [
   },
   {
     numb: 9,
-    question: "Which player has the most career blocks in the Finals?",
-    answer: "Kareem Abdul-Jabbar",
+    question: "How many teams are promoted to the Premier League each season from the division below?",
+    answer: "3",
     options: [
-      "Shaquille O'Neal",
-      "Tim Duncan",
-      "Kareem Abdul-Jabbar",
-      "Hakeem Olajuwon"
+      "2",
+      "4",
+      "3",
+      "5"
     ]
   },
   {
