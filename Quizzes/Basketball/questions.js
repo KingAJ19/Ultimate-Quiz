@@ -375,13 +375,13 @@ let questions = [
   },
   {
     numb: 35,
-    question: "Which anime series involves a family possessed by the animals of the Chinese zodiac?",
-    answer: "Fruits Basket",
+    question: "When a team is granted a time-out, play will resume only when...",
+    answer: "The time-out clock has expired",
     options: [
-      "Fairy Tail",
-      "Sailor Moon",
-      "Jūni Taisen",
-      "Fruits Basket"
+      "The teams make free throws",
+      "The coaches fight",
+      "The game is over",
+      "The time-out clock has expired"
     ]
   },
   {
