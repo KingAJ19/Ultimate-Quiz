@@ -111,13 +111,13 @@ let questions = [
   },
   {
     numb: 11,
-    question: "What’s the name of Goku’s wife in the ‘Dragon Ball’ series?",
-    answer: "Chi-Chi",
+    question: "In one series, who had the most steals?",
+    answer: "Isaiah Thomas",
     options: [
-      "Mai",
-      "Bulma",
-      "Chi-Chi",
-      "Caulifla"
+      "Chris Paul",
+      "Alvin Robertson",
+      "Isaiah Thomas",
+      "Michael Ray Richardson"
     ]
   },
   {
