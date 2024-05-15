@@ -78,13 +78,13 @@ let questions = [
   },
   {
     numb: 8,
-    question: "Who is the highest-ranking hero in ‘One Punch Man’?",
+    question: "The first and only team based outside the United States to win an NBA title or reach the NBA Finals",
     answer: "Blast",
     options: [
-      "Blast",
-      "Tornado of Terror",
-      "Drive Knight",
-      "Silver Fang"
+      "Milwaukee Bucks",
+      "Denver Nuggets",
+      "Toronto Raptors",
+      "Cleveland Cavaliers"
     ]
   },
   {
