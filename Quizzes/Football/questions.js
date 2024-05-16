@@ -210,13 +210,13 @@ let questions = [
   },
   {
     numb: 20,
-    question: "Which team won the first NBA Championship?",
-    answer: "Philadelphia Warriors",
+    question: "What is the nickname of Arsenal Football Club?",
+    answer: "The Gunners",
     options: [
-      "Anderson Packers",
-      "Philadelphia Warriors",
-      "Indianapolis Jets",
-      "Waterloo Hawks"
+      "The Gooners",
+      "The Gunners",
+      "The Guns",
+      "The Gunner Boys"
     ]
   },
   {
