@@ -265,13 +265,13 @@ let questions = [
   },
   {
     numb: 25,
-    question: "Which team did Larry Bird coach during the 1997-98 season?",
-    answer: "Indian Pacers",
+    question: "Which team did Thiago Alcantara sign for in the summer of 2020?",
+    answer: "Liverpool",
     options: [
-      "Oklohoma City Thunder",
-      "Brooklyn Nets",
-      "New York Knicks",
-      "Indian Pacers"
+      "Bayern Munich",
+      "Barcelona",
+      "Atletico Madrid",
+      "Liverpool"
     ]
   },
   {
