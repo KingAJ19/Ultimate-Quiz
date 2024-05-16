@@ -496,13 +496,13 @@ let questions = [
   },
   {
     numb: 46,
-    question: "Which famous player is the NBA logo modelled after? ",
-    answer: "Jerry West",
+    question: "What was bizarre about Australia’s qualification for the 1998 World Cup?",
+    answer: "They were unbeaten but still didn’t qualify for the tournament",
     options: [
-      "Larry Bird", 
-      "Steve Nash",
-      "Jerry West",
-      "Dirk Nowitzki"
+      "They competed with the CONMEBOL nations for a place", 
+      "They had four different managers",
+      "They were unbeaten but still didn’t qualify for the tournament",
+      "None of their starting XI against Fiji was born in Australia"
     ]
   },
   {
