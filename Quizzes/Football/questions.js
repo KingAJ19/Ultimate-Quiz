@@ -276,13 +276,13 @@ let questions = [
   },
   {
     numb: 26,
-    question: "Who was the shortest player to ever win the Slam Dunk contest?",
-    answer: "Spud Webb",
+    question: "Who is the leading goal scorer in La Liga history?",
+    answer: "Lionel Messi",
     options: [
-      "Earl Boykins",
-      "Muggsy Bogues",
-      "Spud Webb",
-      "Keith Jennings"
+      "Telmo Zarra",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Hugo Sanchez"
     ]
   },
   {
