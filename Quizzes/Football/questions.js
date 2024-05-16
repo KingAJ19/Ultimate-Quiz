@@ -485,13 +485,13 @@ let questions = [
   },
   {
     numb: 45,
-    question: "What number did Michael Jordan wear when playing for the Chicago Bulls? ",
-    answer: "23",
+    question: "No country outside of Europe or South America has ever won the men’s World Cup. True or False?",
+    answer: "True",
     options: [
-      "43", 
-      "30",
-      "21",
-      "23"
+      "Neither", 
+      "Both",
+      "False",
+      "True"
     ]
   },
   {
