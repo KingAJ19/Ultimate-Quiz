@@ -364,13 +364,13 @@ let questions = [
   },
   {
     numb: 34,
-    question: "How tall is the hoop in the NBA?",
-    answer: "10 feet",
+    question: "Which stadium in spain has the highest seating capacity with 99,354 seats?",
+    answer: "Camp Nou",
     options: [
-      "9 feet",
-      "12 feet",
-      "10 feet",
-      "13 feet"
+      "Estadio Vicente Calderon",
+      "Estadio Santiago Bernabeu",
+      "Camp Nou",
+      "RCDE Stadium"
     ]
   },
   {
