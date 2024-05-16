@@ -386,13 +386,13 @@ let questions = [
   },
   {
     numb: 36,
-    question: "Who invented the sport of basketball?",
-    answer: "James Naismith",
+    question: "AC Milan was founded in December 1899. Which English city were the club's founders from?",
+    answer: "Nottingham",
     options: [
-      "James Naismith",
-      "Jerry West",
-      "Walter Meanwell",
-      "Serge Ibaka"
+      "Nottingham",
+      "Birmingham",
+      "Bergamo",
+      "Venice"
     ]
   },
   {
