@@ -188,13 +188,13 @@ let questions = [
   },
   {
     numb: 18,
-    question: "The last team to sweep their opponent in a Final",
-    answer: "Golden State Warriors",
+    question: "As of 2020, which of these teams have been relegated the most times from the Premier League?",
+    answer: "Norwich City",
     options: [
-      "Detroit Pistons",
-      "Cleveland Cavaliers",
-      "Golden State Warriors",
-      "San Antonio Spurs"
+      "Sunderland",
+      "West Brom",
+      "Norwich City",
+      "Hull City"
     ]
   },
   {
