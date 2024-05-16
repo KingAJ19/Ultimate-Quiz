@@ -441,13 +441,13 @@ let questions = [
   },
   {
     numb: 41,
-    question: "Magic Johnson was inducted into the NBA Hall of Fame in what year?",
-    answer: "2002",
+    question: "Against which Spanish side did Juventus win the UEFA Cup in 1977?",
+    answer: "Athletico Bilbao",
     options: [
-      "1999", 
-      "2000",
-      "2001",
-      "2002"
+      "Osasuna", 
+      "Sevilla",
+      "Atletico Madrid",
+      "Athletico Bilbao"
     ]
   },
   {
