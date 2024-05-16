@@ -452,13 +452,13 @@ let questions = [
   },
   {
     numb: 42,
-    question: "How many NBA officials are in a game? ",
-    answer: "3",
+    question: "The first FIFA World Cup tournament was held in",
+    answer: "1930",
     options: [
-      "3", 
-      "2",
-      "4",
-      "5"
+      "1930", 
+      "1929",
+      "1940",
+      "1928"
     ]
   },
   {
