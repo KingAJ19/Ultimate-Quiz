@@ -287,13 +287,13 @@ let questions = [
   },
   {
     numb: 27,
-    question: "How many times did Cristiano Ronaldo win the La Laliga best player of the year?",
-    answer: "1",
+    question: "Who won La Liga Best Player award 2015/2016?",
+    answer: "Antonio Griezmann",
     options: [
-      "2",
-      "1",
-      "4",
-      "6"
+      "Lionel Messi",
+      "Antonio Griezmann",
+      "Cristiano Ronaldo",
+      "Luis Suarez"
     ]
   },
   {
