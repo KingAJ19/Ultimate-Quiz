@@ -287,13 +287,13 @@ let questions = [
   },
   {
     numb: 27,
-    question: "Which player attempted a record number of free throws (39) in an NBA post-season game?",
-    answer: "Shaquille O’Neal",
+    question: "How many times did Cristiano Ronaldo win the La Laliga best player of the year?",
+    answer: "1",
     options: [
-      "Bob Cousy",
-      "Shaquille O’Neal",
-      "DeAndre Jordan",
-      "Michael Jordan"
+      "2",
+      "1",
+      "4",
+      "6"
     ]
   },
   {
