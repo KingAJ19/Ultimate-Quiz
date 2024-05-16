@@ -79,7 +79,7 @@ let questions = [
   {
     numb: 8,
     question: "In what position does Harry Kane play?",
-    answer: "TStriker",
+    answer: "Striker",
     options: [
       "Midfielder",
       "Defender",
