@@ -199,13 +199,13 @@ let questions = [
   },
   {
     numb: 19,
-    question: "This team has the best winning percentage in the Finals",
-    answer: "Chicago Bulls",
+    question: "What type of weaponry features on the Arsenal club badge?",
+    answer: "Cannon",
     options: [
-      "Miami Heat",
-      "Los Angeles Lakers",
-      "Boston Celtics",
-      "Chicago Bulls"
+      "Machine Gun",
+      "Dagger",
+      "Shotgun",
+      "Cannon"
     ]
   },
   {
