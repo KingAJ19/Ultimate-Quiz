@@ -463,13 +463,13 @@ let questions = [
   },
   {
     numb: 43,
-    question: "Which NBA team won eight consecutive championships from 1959 to 1966?",
-    answer: "Boston Celtics",
+    question: "Which country became the first from Africa to compete at a World Cup finals?",
+    answer: "Egypt",
     options: [
-      "Boston Celtics", 
-      "Los Angeles Lakers",
-      "Chicago Bulls",
-      "Miami Heat"
+      "Egypt", 
+      "Morocco",
+      "Tunisia",
+      "Algeria"
     ]
   },
   {
