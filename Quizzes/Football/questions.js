@@ -397,13 +397,13 @@ let questions = [
   },
   {
     numb: 37,
-    question: "When was basketball first introduced into the Olympics?",
-    answer: "1936",
+    question: "Which club, famous for their purple shirts, were the first-ever winners of the European Cup Winners' Cup in 1961?",
+    answer: "Fiorentina",
     options: [
-      "1940",
-      "1936",
-      "1950",
-      "1935"
+      "Juventus",
+      "Fiorentina",
+      "Roma",
+      "Napoli"
     ]
   },
   {
