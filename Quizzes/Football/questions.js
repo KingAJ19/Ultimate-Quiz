@@ -474,13 +474,13 @@ let questions = [
   },
   {
     numb: 44,
-    question: "Who is the Chicago Bulls mascot?",
-    answer: "Benny the Bull",
+    question: "Which country was the first to win two World Cups?",
+    answer: "Italy",
     options: [
-      "Lenny the Bull", 
-      "Kenny the Bull",
-      "Benny the Bull",
-      "Penny the Bull"
+      "Brazil", 
+      "Scotland",
+      "Italy",
+      "Germany"
     ]
   },
   {
