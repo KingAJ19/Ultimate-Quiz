@@ -243,13 +243,13 @@ let questions = [
   },
   {
     numb: 23,
-    question: "How many championships did the Boston Celtics win from 1957 to 1969?",
-    answer: "11",
+    question: "What did Eric Cantona do in 1995 that earned him a 9 month ban from football?",
+    answer: "Kung-fu kicked an opposing fan during a game",
     options: [
-      "10",
-      "13",
-      "11",
-      "9"
+      "Took off his clothes during the game",
+      "Punched the referee in the face",
+      "Kung-fu kicked an opposing fan during a game",
+      "Threw things into the crowd"
     ]
   },
   {
