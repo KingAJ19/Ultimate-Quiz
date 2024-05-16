@@ -540,13 +540,13 @@ let questions = [
   },
   {
     numb: 50,
-    question: "Micheal Jordan famously retired from basketball in 1993. What sport did he go on to play instead? ",
-    answer: "Baseball",
+    question: "The 2018 tournament is a record-setting tournament for the number of-",
+    answer: "Most own goals",
     options: [
-      "Baseball", 
-      "Tennis",
-      "Cricket",
-      "Golf"
+      "Most own goals", 
+      "Most goals",
+      "Most hat-tricks",
+      "Most red cards"
     ]
   },
     
