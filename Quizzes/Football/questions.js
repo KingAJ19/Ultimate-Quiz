@@ -507,13 +507,13 @@ let questions = [
   },
   {
     numb: 47,
-    question: "Which team drafted Giannis Antetokounmpo in 2013?",
-    answer: "Milwaukee Bucks",
+    question: "Who won the top scorer title at the tournament on Mexican soil in 1986?",
+    answer: "Gary Lineker",
     options: [
-      "Indiana Pacers", 
-      "Milwaukee Bucks",
-      "Oklohoma City Thunder",
-      "Cleveland Cavaliers"
+      "Diego Maradona", 
+      "Gary Lineker",
+      "Michel Platini",
+      "Zico"
     ]
   },
   {
