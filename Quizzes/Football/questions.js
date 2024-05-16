@@ -320,13 +320,13 @@ let questions = [
   },
   {
     numb: 30,
-    question: "The first NBA athlete to win both the MVP and Rookie of the Year titles in the same season?",
-    answer: "Wilt Chamberlain",
+    question: "2010 Fifa World Cup best player named Diego Forlan who played which spanish clubs?",
+    answer: "Villareal and Atletico Madrid",
     options: [
-      "Wilt Chamberlain",
-      "Derrick Rose",
-      "Magic Johnson",
-      "Stephen Curry"
+      "Villareal and Atletico Madrid",
+      "Villareal and Sevilla",
+      "Real Madrid and Real Sociedad",
+      "Atletico Madrid and Real Betis"
     ]
   },
   {
