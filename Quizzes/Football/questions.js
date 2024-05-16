@@ -430,13 +430,13 @@ let questions = [
   },
   {
     numb: 40,
-    question: "Who won the NBA dunk contest in 2016",
-    answer: "Zach Lavine",
+    question: "Which striker was topscorer three times in the 90s, when he played for Lazio?",
+    answer: "Giuseppe Signori",
     options: [
-      "Aaron Gordon", 
-      "Zach Lavine",
-      "Victor Oladipo",
-      "Will Barton"
+      "Gabriel Batistuta", 
+      "Giuseppe Signori",
+      "Roberto Baggio",
+      "Ciro Immobile"
     ]
   },
   {
