@@ -419,13 +419,13 @@ let questions = [
   },
   {
     numb: 39,
-    question: "Who was the 2001 number 1 overall pick in the draft?",
-    answer: "Kwame Brown",
+    question: "Who was AC Milan's captain in the 2003-04 season?",
+    answer: "Paolo Maldini",
     options: [
-      "Tyson Chandler", 
-      "Pau Gasol",
-      "Joe Johnson",
-      "Kwame Brown"
+      "Roberto Antonelli", 
+      "Frank Baresi",
+      "Caesar Maldini",
+      "Paolo Maldini"
     ]
   },
   {
