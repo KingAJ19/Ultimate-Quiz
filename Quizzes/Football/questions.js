@@ -342,13 +342,13 @@ let questions = [
   },
   {
     numb: 32,
-    question: "How many personal fouls does it take to get ejected from an NBA basketball game?",
-    answer: "6",
+    question: "Which is the oldest club in spain?",
+    answer: "Sevilla",
     options: [
-      "5",
-      "6",
-      "3",
-      "1"
+      "Real Madrid",
+      "Sevilla",
+      "Barcelona",
+      "Athletic Club"
     ]
   },
   {
