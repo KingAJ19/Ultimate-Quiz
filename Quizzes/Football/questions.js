@@ -518,13 +518,13 @@ let questions = [
   },
   {
     numb: 48,
-    question: "Who won the first official NBA game when it started?",
-    answer: "New York Knicks",
+    question: "This is the first tournament for both Lionel Messi and Cristiano Ronaldo. How many goals did they score each (2006)?",
+    answer: "1",
     options: [
-      "Portland Trailblazers", 
-      "Brooklyn Nets",
-      "Los Angeles Lakers",
-      "New York Knicks"
+      "4", 
+      "6",
+      "4",
+      "1"
     ]
   },
   {
