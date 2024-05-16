@@ -298,13 +298,13 @@ let questions = [
   },
   {
     numb: 28,
-    question: "Who was the first player to win the MVP in consecutive seasons?",
-    answer: "Bill Russell",
+    question: "Which club has the highest number of trophies in spain?",
+    answer: "Real Madrid",
     options: [
-      "Bill Russell",
-      "Wilt Chamberlain",
-      "Kareem Abdul-Jabbar",
-      "Michael Jordan"
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Espanyol"
     ]
   },
   {
