@@ -221,13 +221,13 @@ let questions = [
   },
   {
     numb: 21,
-    question: "The first team to hire a woman on their coaching staff?",
-    answer: "San Antonio Spurs",
+    question: "Which of these is a famous stand at Liverpool's Anfield stadium?",
+    answer: "The Kop",
     options: [
-      "Dallas Mavericks",
-      "Brooklyn Nets",
-      "Atlanta Hawks",
-      "San Antonio Spurs"
+      "The Kopp",
+      "The Cop",
+      "The Kops",
+      "The Kop"
     ]
   },
   {
