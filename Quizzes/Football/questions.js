@@ -254,13 +254,13 @@ let questions = [
   },
   {
     numb: 24,
-    question: "This Miami team joined the NBA in 1988",
-    answer: "Miami Heat",
+    question: "What type of animal features on the Chelsea club badge?",
+    answer: "Lion",
     options: [
-      "Orlando Magic",
-      "Miami Heat",
-      "Indiana Pacers",
-      "Memphia Grizzlies"
+      "Tiger",
+      "Lion",
+      "Jaguar",
+      "Panther"
     ]
   },
   {
