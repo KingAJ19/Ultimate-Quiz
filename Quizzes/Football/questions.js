@@ -353,13 +353,13 @@ let questions = [
   },
   {
     numb: 33,
-    question: "When was the shot clock introduced into NBA regulation?",
-    answer: "1955",
+    question: "Who has won the most number of 'Zamora Trophy' by keeping highest amount of clean sheets in La Liga history?",
+    answer: "Jan Oblak",
     options: [
-      "1990",
-      "1950",
-      "1962",
-      "1955"
+      "Iker Casillas",
+      "Victor Valdes",
+      "Mark-Andre ter Stegen",
+      "Jan Oblak"
     ]
   },
   {
