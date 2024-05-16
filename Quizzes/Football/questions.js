@@ -331,13 +331,13 @@ let questions = [
   },
   {
     numb: 31,
-    question: "Who owns the Los Angeles Lakers?",
-    answer: "Jeanie Buss",
+    question: "Which year did Messi scored his first ever hat trick against Real Madrid?",
+    answer: "2007",
     options: [
-      "Joe Lacob",
-      "Tilman Fertitta",
-      "Jeanie Buss",
-      "Herbert Simon"
+      "2009",
+      "2008",
+      "2007",
+      "2010"
     ]
   },
   {
