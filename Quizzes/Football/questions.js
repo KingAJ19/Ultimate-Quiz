@@ -529,13 +529,13 @@ let questions = [
   },
   {
     numb: 49,
-    question: "Who is the current NBA commissioner? ",
-    answer: "Adam Silver",
+    question: "Who won the Best Young Player award in 2014?",
+    answer: "Paul Pogba",
     options: [
-      "Larry O'Brien", 
-      "Maurice Podoloff",
-      "Adam Silver",
-      "David Stern"
+      "Memphis Depay", 
+      "James Rodriguez",
+      "Paul Pogba",
+      "Luke Shaw"
     ]
   },
   {
