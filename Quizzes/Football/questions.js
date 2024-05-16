@@ -309,13 +309,13 @@ let questions = [
   },
   {
     numb: 29,
-    question: "Who was the first player in the NBA to hit an elusive triple-double season?",
-    answer: "Oscar Robertson",
+    question: "Messi scored his first ever hat trick against which spanish club?",
+    answer: "Real Madrid",
     options: [
-      "Nikola Jokic",
-      "Russell Westbrook",
-      "LeBron James",
-      "Oscar Robertson"
+      "Real Betis",
+      "Getafe",
+      "Athletic Bilbao",
+      "Real Madrid"
     ]
   },
   {
