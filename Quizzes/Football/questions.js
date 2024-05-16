@@ -408,13 +408,13 @@ let questions = [
   },
   {
     numb: 38,
-    question: "How many teams play in the NBA?",
-    answer: "30",
+    question: "In which year did AC Milan win their first Campionato?",
+    answer: "1901",
     options: [
-      "30", 
-      "27",
-      "20",
-      "34"
+      "1901", 
+      "1900",
+      "1902",
+      "1905"
     ]
   },
   {
