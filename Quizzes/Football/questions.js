@@ -177,13 +177,13 @@ let questions = [
   },
   {
     numb: 17,
-    question: "A legendary player, he had the most NBA Finals appearances",
-    answer: "Bill Russell",
+    question: "Fulham Football Club are situated in which English city?",
+    answer: "London",
     options: [
-      "Wilt Chamberlain",
-      "Michael Jordan",
-      "Bill Russell",
-      "Kareem Abdul-Jabbar"
+      "Birmingham",
+      "Leicester",
+      "London",
+      "Coventry"
     ]
   },
   {
