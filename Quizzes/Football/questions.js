@@ -375,13 +375,13 @@ let questions = [
   },
   {
     numb: 35,
-    question: "When a team is granted a time-out, play will resume only when...",
-    answer: "The time-out clock has expired",
+    question: "Who was the first Real Madrid's manager?",
+    answer: "Arthur Johnson",
     options: [
-      "The teams make free throws",
-      "The coaches fight",
-      "The game is over",
-      "The time-out clock has expired"
+      "Juande Ramos",
+      "Vicente del Bosque",
+      "Fabio Capello",
+      "Arthur Johnson"
     ]
   },
   {
