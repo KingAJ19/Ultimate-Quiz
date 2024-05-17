@@ -9,7 +9,7 @@ let questions = [
       "Diego Maradona",
       "Ronaldo"
     ]
-  },
+  }, 
     {
     numb: 2,
     question: "Ex-West Ham striker Paulo Di Canio was from which country?",
