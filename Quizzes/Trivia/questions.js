@@ -518,13 +518,13 @@ let questions = [
   },
   {
     numb: 48,
-    question: "This is the first tournament for both Lionel Messi and Cristiano Ronaldo. How many goals did they score each (2006)?",
-    answer: "1",
+    question: "Who was the first woman to win an Academy Award for Best Director?",
+    answer: "Kathryn Bigelow",
     options: [
-      "4", 
-      "6",
-      "4",
-      "1"
+      "Chloé Zhao", 
+      "Ava DuVernay",
+      "Sofia Coppola",
+      "Kathryn Bigelow"
     ]
   },
   {
