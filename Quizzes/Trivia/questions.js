@@ -375,13 +375,13 @@ let questions = [
   },
   {
     numb: 35,
-    question: "Who was the first Real Madrid's manager?",
-    answer: "Arthur Johnson",
+    question: "How many wives did Henry VIII have?",
+    answer: "6",
     options: [
-      "Juande Ramos",
-      "Vicente del Bosque",
-      "Fabio Capello",
-      "Arthur Johnson"
+      "3",
+      "5",
+      "9",
+      "6"
     ]
   },
   {
