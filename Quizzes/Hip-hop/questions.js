@@ -320,13 +320,13 @@ let questions = [
   },
   {
     numb: 30,
-    question: "2010 Fifa World Cup best player named Diego Forlan who played which spanish clubs?",
-    answer: "Villareal and Atletico Madrid",
+    question: "Which album was made in only two days?",
+    answer: "Blue Print",
     options: [
-      "Villareal and Atletico Madrid",
-      "Villareal and Sevilla",
-      "Real Madrid and Real Sociedad",
-      "Atletico Madrid and Real Betis"
+      "Blue Print",
+      "The Chronic",
+      "Doggystyle",
+      "The Slim Shady LP"
     ]
   },
   {
