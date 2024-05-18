@@ -298,13 +298,13 @@ let questions = [
   },
   {
     numb: 28,
-    question: "Which club has the highest number of trophies in spain?",
-    answer: "Real Madrid",
+    question: "Which of the following rappers are from the South?",
+    answer: "Ludacris",
     options: [
-      "Real Madrid",
-      "Barcelona",
-      "Atletico Madrid",
-      "Espanyol"
+      "Ludacris",
+      "Dr. Dre",
+      "Jay-Z",
+      "Snoop Dogg"
     ]
   },
   {
