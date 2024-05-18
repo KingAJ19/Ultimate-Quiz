@@ -166,13 +166,13 @@ let questions = [
   },
   {
     numb: 16,
-    question: "Steven Gerrard & Wayne Rooney are both from which English city?",
-    answer: "Liverpool",
+    question: "Dwayne Michael Carter is better known as what to his fans?",
+    answer: "Lil Wayne",
     options: [
-      "Manchester",
-      "Liverpool",
-      "Swansea",
-      "Bristol"
+      "50 Cent",
+      "Lil Wayne",
+      "Rick Ross",
+      "Drake"
     ]
   },
   {
