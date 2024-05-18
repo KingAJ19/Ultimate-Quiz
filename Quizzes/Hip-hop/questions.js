@@ -474,13 +474,13 @@ let questions = [
   },
   {
     numb: 44,
-    question: "Which country was the first to win two World Cups?",
-    answer: "Italy",
+    question: "What was 50 Cent's 2003 debut album titled?",
+    answer: "Get Rich Or Die Tryin'",
     options: [
-      "Brazil", 
-      "Scotland",
-      "Italy",
-      "Germany"
+      "Before I Self Destruct", 
+      "The Massacre",
+      "Get Rich Or Die Tryin'",
+      "How To Rob"
     ]
   },
   {
