@@ -386,13 +386,13 @@ let questions = [
   },
   {
     numb: 36,
-    question: "AC Milan was founded in December 1899. Which English city were the club's founders from?",
-    answer: "Nottingham",
+    question: "The Ferrari Boyz are made up of these two rappers:",
+    answer: "Gucci Mane & Waka Flocka Flame",
     options: [
-      "Nottingham",
-      "Birmingham",
-      "Bergamo",
-      "Venice"
+      "Gucci Mane & Waka Flocka Flame",
+      "T.I. & B.o.B",
+      "Wiz Khalifa & Curren$y",
+      "Juelz Santana & Lil' Wayne"
     ]
   },
   {
