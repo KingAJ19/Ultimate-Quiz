@@ -133,13 +133,13 @@ let questions = [
   },
   {
     numb: 13,
-    question: "Former Arsenal manager Arsene Wenger is from which country?",
-    answer: "France",
+    question: "What city hosted the 2014 Winter Olympics?",
+    answer: "Sochi, Russia",
     options: [
-      "Italy",
-      "Portugal",
-      "Germany",
-      "France"
+      "Tokyo, Japan",
+      "Paris, France",
+      "Athens, Greece",
+      "Sochi, Russia"
     ]
   },
   {
