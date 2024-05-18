@@ -342,13 +342,13 @@ let questions = [
   },
   {
     numb: 32,
-    question: "Which is the oldest club in spain?",
-    answer: "Sevilla",
+    question: "What is the most commonly spoken language in Brazil?",
+    answer: "Portuguese",
     options: [
-      "Real Madrid",
-      "Sevilla",
-      "Barcelona",
-      "Athletic Club"
+      "Spanish",
+      "Portuguese",
+      "English",
+      "German"
     ]
   },
   {
