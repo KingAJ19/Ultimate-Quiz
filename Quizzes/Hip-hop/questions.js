@@ -430,13 +430,13 @@ let questions = [
   },
   {
     numb: 40,
-    question: "Which striker was topscorer three times in the 90s, when he played for Lazio?",
-    answer: "Giuseppe Signori",
+    question: "Complete the name of this famous rap artist. 'Eazy _____'",
+    answer: "E",
     options: [
-      "Gabriel Batistuta", 
-      "Giuseppe Signori",
-      "Roberto Baggio",
-      "Ciro Immobile"
+      "H", 
+      "E",
+      "A",
+      "B"
     ]
   },
   {
