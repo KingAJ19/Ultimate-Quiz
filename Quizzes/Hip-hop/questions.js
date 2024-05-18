@@ -408,13 +408,13 @@ let questions = [
   },
   {
     numb: 38,
-    question: "In which year did AC Milan win their first Campionato?",
-    answer: "1901",
+    question: "Who aided Lil' Wayne in singing the chorus for his record-breaking single 'Lollipop'?",
+    answer: "Static Major",
     options: [
-      "1901", 
-      "1900",
-      "1902",
-      "1905"
+      "Static Major", 
+      "Trey Songz",
+      "Mario",
+      "Lloyd"
     ]
   },
   {
