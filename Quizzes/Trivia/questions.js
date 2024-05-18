@@ -67,13 +67,13 @@ let questions = [
   },
   {
     numb: 7,
-    question: "Manchester United are also known as 'The Red .......'?",
-    answer: "Devils",
+    question: "What is the sign directly opposite Scorpio in the zodiac?",
+    answer: "Taurus",
     options: [
-      "Bulls",
-      "Men",
-      "Kite",
-      "Devils"
+      "Leo",
+      "Aries",
+      "Scorpio",
+      "Taurus"
     ]
   },
   {
