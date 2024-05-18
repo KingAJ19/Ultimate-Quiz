@@ -100,13 +100,13 @@ let questions = [
   },
   {
     numb: 10,
-    question: "Gareth Bale plays for which country?",
-    answer: "Wales",
+    question: "Whose debut album was called 'Reasonable Doubt'?",
+    answer: "Jay-Z",
     options: [
-      "Wales",
-      "Sweden",
-      "Finland",
-      "Scotland"
+      "Jay-Z",
+      "Notorious B.I.G",
+      "P.Diddy",
+      "2pac"
     ]
   },
   {
