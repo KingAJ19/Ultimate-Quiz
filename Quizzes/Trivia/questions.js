@@ -309,13 +309,13 @@ let questions = [
   },
   {
     numb: 29,
-    question: "Messi scored his first ever hat trick against which spanish club?",
-    answer: "Real Madrid",
+    question: "What is the name for the solar event that occurs on March 20th or 21st of each year?",
+    answer: "The Vernal Equinox",
     options: [
-      "Real Betis",
-      "Getafe",
-      "Athletic Bilbao",
-      "Real Madrid"
+      "Wolf Moon",
+      "New Moon",
+      "Quadrantids Meteors",
+      "The Vernal Equinox"
     ]
   },
   {
