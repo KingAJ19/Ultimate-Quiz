@@ -122,13 +122,13 @@ let questions = [
   },
   {
     numb: 12,
-    question: "David Beckham left Manchester United in 2003 to join which Spanish team?",
-    answer: "Real Madrid",
+    question: "The album, The College Dropout , was released by which hip hop artist?",
+    answer: "Kanye West",
     options: [
-      "Atletico Madrid",
-      "Real Madrid",
-      "Valencia",
-      "Getafe"
+      "Eminem",
+      "Kanye West",
+      "Jay-Z",
+      "Ludacris"
     ]
   },
   {
