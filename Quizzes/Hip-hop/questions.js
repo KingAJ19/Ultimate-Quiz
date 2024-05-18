@@ -342,13 +342,13 @@ let questions = [
   },
   {
     numb: 32,
-    question: "Which is the oldest club in spain?",
-    answer: "Sevilla",
+    question: "Who's the rapper that claims his 'daddy' is Brian Birdman Williams?",
+    answer: "Lil' Wayne",
     options: [
-      "Real Madrid",
-      "Sevilla",
-      "Barcelona",
-      "Athletic Club"
+      "Mack Maine",
+      "Lil' Wayne",
+      "Lil' Twist",
+      "Drake"
     ]
   },
   {
