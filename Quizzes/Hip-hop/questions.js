@@ -89,13 +89,13 @@ let questions = [
   },
   {
     numb: 9,
-    question: "How many teams are promoted to the Premier League each season from the division below?",
-    answer: "3",
+    question: "What was the name of The Game's debut album in 2005?",
+    answer: "The Documentary",
     options: [
-      "2",
-      "4",
-      "3",
-      "5"
+      "The TV Show",
+      "The Game",
+      "The Documentary",
+      "The Movie"
     ]
   },
   {
