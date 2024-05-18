@@ -331,13 +331,13 @@ let questions = [
   },
   {
     numb: 31,
-    question: "Which year did Messi scored his first ever hat trick against Real Madrid?",
-    answer: "2007",
+    question: "Which of the following album is made by Ludacris?",
+    answer: "Chicken-N-Beer",
     options: [
-      "2009",
-      "2008",
-      "2007",
-      "2010"
+      "South Side",
+      "Relapse",
+      "Chicken-N-Beer",
+      "Boyz-n-the hood"
     ]
   },
   {
