@@ -276,13 +276,13 @@ let questions = [
   },
   {
     numb: 26,
-    question: "Who is the leading goal scorer in La Liga history?",
-    answer: "Lionel Messi",
+    question: "Which of the following rappers are from the West Coast?",
+    answer: "None of the above",
     options: [
-      "Telmo Zarra",
-      "Cristiano Ronaldo",
-      "Lionel Messi",
-      "Hugo Sanchez"
+      "Common",
+      "Eminem",
+      "None of the above",
+      "Kanye west"
     ]
   },
   {
