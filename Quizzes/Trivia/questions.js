@@ -276,13 +276,13 @@ let questions = [
   },
   {
     numb: 26,
-    question: "Who is the leading goal scorer in La Liga history?",
-    answer: "Lionel Messi",
+    question: "In Greek mythology, who was known as the messenger of the gods?",
+    answer: "Hermes",
     options: [
-      "Telmo Zarra",
-      "Cristiano Ronaldo",
-      "Lionel Messi",
-      "Hugo Sanchez"
+      "Demeter",
+      "Paean",
+      "Hermes",
+      "Notus"
     ]
   },
   {
