@@ -298,13 +298,13 @@ let questions = [
   },
   {
     numb: 28,
-    question: "Which club has the highest number of trophies in spain?",
-    answer: "Real Madrid",
+    question: "In chess, what direction can a bishop move?",
+    answer: "Diagonally",
     options: [
-      "Real Madrid",
-      "Barcelona",
-      "Atletico Madrid",
-      "Espanyol"
+      "Diagonally",
+      "Backwords",
+      "Forwards",
+      "None of the above"
     ]
   },
   {
