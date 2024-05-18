@@ -507,13 +507,13 @@ let questions = [
   },
   {
     numb: 47,
-    question: "Who won the top scorer title at the tournament on Mexican soil in 1986?",
-    answer: "Gary Lineker",
+    question: "One of the fastest rappers in the game who hails from Chi-Town?",
+    answer: "Twista",
     options: [
-      "Diego Maradona", 
-      "Gary Lineker",
-      "Michel Platini",
-      "Zico"
+      "Tech N9ne", 
+      "Twista",
+      "Busta Rhymes",
+      "Bun B"
     ]
   },
   {
