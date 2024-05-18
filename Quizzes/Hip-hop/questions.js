@@ -265,13 +265,13 @@ let questions = [
   },
   {
     numb: 25,
-    question: "Which team did Thiago Alcantara sign for in the summer of 2020?",
-    answer: "Liverpool",
+    question: "In 1994 Biggie Smalls married which R&B artist?",
+    answer: "Faith Evans",
     options: [
-      "Bayern Munich",
-      "Barcelona",
-      "Atletico Madrid",
-      "Liverpool"
+      "Faith Hill",
+      "Missy Elliott",
+      "Lauren Hill",
+      "Faith Evans"
     ]
   },
   {
