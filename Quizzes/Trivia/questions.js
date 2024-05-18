@@ -353,13 +353,13 @@ let questions = [
   },
   {
     numb: 33,
-    question: "Who has won the most number of 'Zamora Trophy' by keeping highest amount of clean sheets in La Liga history?",
-    answer: "Jan Oblak",
+    question: "How many colors will you find in a regular bag of M&Ms?",
+    answer: "6",
     options: [
-      "Iker Casillas",
-      "Victor Valdes",
-      "Mark-Andre ter Stegen",
-      "Jan Oblak"
+      "8",
+      "5",
+      "7",
+      "6"
     ]
   },
   {
