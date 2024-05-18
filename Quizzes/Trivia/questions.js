@@ -199,13 +199,13 @@ let questions = [
   },
   {
     numb: 19,
-    question: "What type of weaponry features on the Arsenal club badge?",
-    answer: "Cannon",
+    question: "How many bones do sharks have?",
+    answer: "0",
     options: [
-      "Machine Gun",
-      "Dagger",
-      "Shotgun",
-      "Cannon"
+      "54",
+      "30",
+      "25",
+      "0"
     ]
   },
   {
