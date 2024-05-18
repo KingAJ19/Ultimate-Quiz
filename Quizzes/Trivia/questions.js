@@ -100,13 +100,13 @@ let questions = [
   },
   {
     numb: 10,
-    question: "Gareth Bale plays for which country?",
-    answer: "Wales",
+    question: "What is the capital of India?",
+    answer: "New Delhi",
     options: [
-      "Wales",
-      "Sweden",
-      "Finland",
-      "Scotland"
+      "New Delhi",
+      "Andhra Pradesh",
+      "Assam",
+      "Chhattisgarh"
     ]
   },
   {
