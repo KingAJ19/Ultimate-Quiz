@@ -232,13 +232,13 @@ let questions = [
   },
   {
     numb: 22,
-    question: "Which Merseyside club play at Goodison Park?",
-    answer: "Everton",
+    question: "Eminem starred in the film '8 Mile', set in his real life home town, which is what city?",
+    answer: "Detroit",
     options: [
-      "Everton",
-      "Tranmere",
-      "Southport",
-      "Pilkington"
+      "Detroit",
+      "Chicago",
+      "Denver",
+      "Minneapolis"
     ]
   },
   {
