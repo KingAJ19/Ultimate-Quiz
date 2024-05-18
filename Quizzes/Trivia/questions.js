@@ -254,13 +254,13 @@ let questions = [
   },
   {
     numb: 24,
-    question: "What type of animal features on the Chelsea club badge?",
-    answer: "Lion",
+    question: "What was the first country to give women the right to vote?",
+    answer: "New Zealand",
     options: [
-      "Tiger",
-      "Lion",
-      "Jaguar",
-      "Panther"
+      "America",
+      "New Zealand",
+      "Italy",
+      "Argentina"
     ]
   },
   {
