@@ -452,13 +452,13 @@ let questions = [
   },
   {
     numb: 42,
-    question: "The first FIFA World Cup tournament was held in",
-    answer: "1930",
+    question: "Which is the only vowel on a standard keyboard that is not on the top line of letters?",
+    answer: "A",
     options: [
-      "1930", 
-      "1929",
-      "1940",
-      "1928"
+      "A", 
+      "K",
+      "G",
+      "D"
     ]
   },
   {
