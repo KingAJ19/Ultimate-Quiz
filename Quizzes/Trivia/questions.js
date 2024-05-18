@@ -210,13 +210,13 @@ let questions = [
   },
   {
     numb: 20,
-    question: "What is the nickname of Arsenal Football Club?",
-    answer: "The Gunners",
+    question: "What is the deadliest mammal?",
+    answer: "The hippo",
     options: [
-      "The Gooners",
-      "The Gunners",
-      "The Guns",
-      "The Gunner Boys"
+      "The lion",
+      "The hippo",
+      "The shark",
+      "The bear"
     ]
   },
   {
