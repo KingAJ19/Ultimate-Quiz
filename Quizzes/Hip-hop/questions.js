@@ -56,13 +56,13 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Ex-Arsenal player Dennis Bergkamp is from which country?",
-    answer: "Netherlands",
+    question: "Whose debut album is 'Illmatic'?",
+    answer: "Nas",
     options: [
-      "England",
-      "France",
-      "Netherlands",
-      "Italy"
+      "EPMD",
+      "Ol' Dirty Bastard",
+      "Nas",
+      "Afu-Ra"
     ]
   },
   {
