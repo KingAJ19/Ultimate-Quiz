@@ -353,13 +353,13 @@ let questions = [
   },
   {
     numb: 33,
-    question: "Who has won the most number of 'Zamora Trophy' by keeping highest amount of clean sheets in La Liga history?",
-    answer: "Jan Oblak",
+    question: "The rapper who has claimed to bring Auto-Tune back into music is",
+    answer: "T-Pain",
     options: [
-      "Iker Casillas",
-      "Victor Valdes",
-      "Mark-Andre ter Stegen",
-      "Jan Oblak"
+      "Drake",
+      "Kanye West",
+      "Yung Berg",
+      "T-Pain"
     ]
   },
   {
