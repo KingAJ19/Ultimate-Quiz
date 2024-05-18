@@ -320,13 +320,13 @@ let questions = [
   },
   {
     numb: 30,
-    question: "2010 Fifa World Cup best player named Diego Forlan who played which spanish clubs?",
-    answer: "Villareal and Atletico Madrid",
+    question: "What’s the shortcut for the paste function on most computers?",
+    answer: "Ctrl+V",
     options: [
-      "Villareal and Atletico Madrid",
-      "Villareal and Sevilla",
-      "Real Madrid and Real Sociedad",
-      "Atletico Madrid and Real Betis"
+      "Ctrl+V",
+      "Ctrl+D",
+      "Ctrl+C",
+      "Ctrl+X"
     ]
   },
   {
