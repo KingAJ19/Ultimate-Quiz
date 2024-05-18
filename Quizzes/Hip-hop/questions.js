@@ -210,13 +210,13 @@ let questions = [
   },
   {
     numb: 20,
-    question: "What is the nickname of Arsenal Football Club?",
-    answer: "The Gunners",
+    question: "The album, 'Vol. 3... Life and Times of S. Carter', was released by which artist?",
+    answer: "Jay-Z",
     options: [
-      "The Gooners",
-      "The Gunners",
-      "The Guns",
-      "The Gunner Boys"
+      "Lil Wayne",
+      "Jay-Z",
+      "Drake",
+      "Kanye West"
     ]
   },
   {
