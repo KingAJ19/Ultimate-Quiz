@@ -34,13 +34,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "John Terry spent his entire playing career at which club?",
-    answer: "Chelsea",
+    question: "Who, in 1903, was the first woman to win a Nobel Prize?",
+    answer: "Marie Curie",
     options: [
-      "Manchester City",
-      "Juventus",
-      "Chelsea",
-      "Liverpool"
+      "Leymah Gbowee",
+      "Ellen Johnson Sirleaf",
+      "Marie Curie",
+      "Tawakkol Karman"
     ]
   },
   {
