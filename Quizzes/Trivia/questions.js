@@ -224,7 +224,7 @@ let questions = [
     question: "What is the deadliest animal in the world?",
     answer: "The mosquito",
     options: [
-      "The mosquitop",
+      "The mosquito",
       "The scorpions",
       "The elephant",
       "The snake"
