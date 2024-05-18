@@ -188,13 +188,13 @@ let questions = [
   },
   {
     numb: 18,
-    question: "As of 2020, which of these teams have been relegated the most times from the Premier League?",
-    answer: "Norwich City",
+    question: "How many feet are in a yard?",
+    answer: "3",
     options: [
-      "Sunderland",
-      "West Brom",
-      "Norwich City",
-      "Hull City"
+      "2",
+      "4",
+      "3",
+      "5"
     ]
   },
   {
