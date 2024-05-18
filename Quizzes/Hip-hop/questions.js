@@ -12,13 +12,13 @@ let questions = [
   }, 
     { 
     numb: 2,
-    question: "Ex-West Ham striker Paulo Di Canio was from which country?",
-    answer: "Italy",
+    question: "Who said this: 'I'm that cat by the bar toasting to the good life.'",
+    answer: "50 Cent",
     options: [
-      "Italy",
-      "Germany",
-      "Sweden",
-      "Spain"
+      "50 Cent",
+      "Dr. Dre",
+      "Jermaine Dupri",
+      "Eminem"
     ]
   },
     {
