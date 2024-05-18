@@ -529,13 +529,13 @@ let questions = [
   },
   {
     numb: 49,
-    question: "Who won the Best Young Player award in 2014?",
-    answer: "Paul Pogba",
+    question: "Which female rapper fired shots at Nicki Minaj with her track 'Black Friday'?",
+    answer: "Lil' Kim",
     options: [
-      "Memphis Depay", 
-      "James Rodriguez",
-      "Paul Pogba",
-      "Luke Shaw"
+      "Missy Elliott", 
+      "Lil' Mama",
+      "Lil' Kim",
+      "Foxy Brown"
     ]
   },
   {
