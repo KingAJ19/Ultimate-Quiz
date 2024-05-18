@@ -496,13 +496,13 @@ let questions = [
   },
   {
     numb: 46,
-    question: "What was bizarre about Australia’s qualification for the 1998 World Cup?",
-    answer: "They were unbeaten but still didn’t qualify for the tournament",
+    question: "Which planet in our solar system has the most moons?",
+    answer: "Jupiter",
     options: [
-      "They competed with the CONMEBOL nations for a place", 
-      "They had four different managers",
-      "They were unbeaten but still didn’t qualify for the tournament",
-      "None of their starting XI against Fiji was born in Australia"
+      "Mars", 
+      "Mercury",
+      "Jupiter",
+      "Venus"
     ]
   },
   {
