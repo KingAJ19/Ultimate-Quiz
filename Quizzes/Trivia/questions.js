@@ -265,13 +265,13 @@ let questions = [
   },
   {
     numb: 25,
-    question: "Which team did Thiago Alcantara sign for in the summer of 2020?",
-    answer: "Liverpool",
+    question: "What year was the landmark civil and LGBTQ+ rights case Obergefell v. Hodges ruled on?",
+    answer: "2015",
     options: [
-      "Bayern Munich",
-      "Barcelona",
-      "Atletico Madrid",
-      "Liverpool"
+      "2010",
+      "2014",
+      "2011",
+      "2015"
     ]
   },
   {
