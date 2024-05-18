@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "Who scored with his hand in the 1986 World Cup quarterfinals against England?",
-    answer: "Diego Maradona",
+    question: "Get Rich or Die Tryin' by 50 Cent went platinum how many times?",
+    answer: "8",
     options: [
-      "Zinedine Zidane",
-      "Pele",
-      "Diego Maradona",
-      "Ronaldo"
+      "2",
+      "3",
+      "8",
+      "5"
     ]
   }, 
     { 
