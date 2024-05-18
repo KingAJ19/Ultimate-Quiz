@@ -441,13 +441,13 @@ let questions = [
   },
   {
     numb: 41,
-    question: "Against which Spanish side did Juventus win the UEFA Cup in 1977?",
-    answer: "Athletico Bilbao",
+    question: "Drake isn't the only rapper hailing from Toronto, this rapper is one of his few Canadian peers",
+    answer: "Kardinal Offishall",
     options: [
-      "Osasuna", 
-      "Sevilla",
-      "Atletico Madrid",
-      "Athletico Bilbao"
+      "Fabolous", 
+      "Bun B",
+      "Fat Joe",
+      "Kardinal Offishall"
     ]
   },
   {
