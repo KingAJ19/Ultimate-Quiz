@@ -540,13 +540,13 @@ let questions = [
   },
   {
     numb: 50,
-    question: "The 2018 tournament is a record-setting tournament for the number of-",
-    answer: "Most own goals",
+    question: "What is the most commonly spoken language in the world?",
+    answer: "Mandarin Chinese",
     options: [
-      "Most own goals", 
-      "Most goals",
-      "Most hat-tricks",
-      "Most red cards"
+      "Mandarin Chinese", 
+      "English",
+      "French",
+      "Spanish"
     ]
   },
     
