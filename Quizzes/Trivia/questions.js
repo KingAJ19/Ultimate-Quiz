@@ -78,13 +78,13 @@ let questions = [
   },
   {
     numb: 8,
-    question: "In what position does Harry Kane play?",
-    answer: "Striker",
+    question: "What is the smallest planet in our solar system?",
+    answer: "Mercury",
     options: [
-      "Midfielder",
-      "Defender",
-      "Striker",
-      "Goalkeeper"
+      "Mars",
+      "Jupiter",
+      "Mercury",
+      "Pluto"
     ]
   },
   {
