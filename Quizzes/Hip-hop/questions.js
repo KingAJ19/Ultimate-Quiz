@@ -34,13 +34,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "John Terry spent his entire playing career at which club?",
-    answer: "Chelsea",
+    question: "From which song did Coolio get the beat for his song 'Gangsta's Paradise'?",
+    answer: "Pastime Paradise",
     options: [
-      "Manchester City",
-      "Juventus",
-      "Chelsea",
-      "Liverpool"
+      "Old Time Paradise",
+      "Part-time Paradise",
+      "Pastime Paradise",
+      "Love's Paradise"
     ]
   },
   {
