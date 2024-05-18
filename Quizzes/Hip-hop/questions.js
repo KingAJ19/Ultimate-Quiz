@@ -111,13 +111,13 @@ let questions = [
   },
   {
     numb: 11,
-    question: "Complete the name of this former Premier League team. Bolton _____",
-    answer: "Wanderers",
+    question: "Complete the name of this famous rap artist. 'Chris _____'",
+    answer: "Brown",
     options: [
-      "County",
-      "Vale",
-      "Wanderers",
-      "City"
+      "Breezy",
+      "White",
+      "Brown",
+      "Black"
     ]
   },
   {
