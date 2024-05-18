@@ -364,13 +364,13 @@ let questions = [
   },
   {
     numb: 34,
-    question: "Which stadium in spain has the highest seating capacity with 99,354 seats?",
-    answer: "Camp Nou",
+    question: "Nipsey Hussle, Fashawn, Ya Boy, Snoop Dogg, Dom Kennedy.... These rappers rep which area?",
+    answer: "West coast",
     options: [
-      "Estadio Vicente Calderon",
-      "Estadio Santiago Bernabeu",
-      "Camp Nou",
-      "RCDE Stadium"
+      "East coast",
+      "Canada",
+      "West coast",
+      "Down south"
     ]
   },
   {
