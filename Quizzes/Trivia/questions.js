@@ -364,13 +364,13 @@ let questions = [
   },
   {
     numb: 34,
-    question: "Which stadium in spain has the highest seating capacity with 99,354 seats?",
-    answer: "Camp Nou",
+    question: "The Statue of Liberty was a gift to the U.S. from what country?",
+    answer: "France",
     options: [
-      "Estadio Vicente Calderon",
-      "Estadio Santiago Bernabeu",
-      "Camp Nou",
-      "RCDE Stadium"
+      "Germany",
+      "Italy",
+      "France",
+      "Japan"
     ]
   },
   {
