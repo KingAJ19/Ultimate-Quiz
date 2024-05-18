@@ -463,13 +463,13 @@ let questions = [
   },
   {
     numb: 43,
-    question: "Which country became the first from Africa to compete at a World Cup finals?",
-    answer: "Egypt",
+    question: "What is the longest running American animated TV show?",
+    answer: "The Simpsons",
     options: [
-      "Egypt", 
-      "Morocco",
-      "Tunisia",
-      "Algeria"
+      "The Simpsons", 
+      "South Park",
+      "SpongeBob SquarePants",
+      "Looney Tunes"
     ]
   },
   {
