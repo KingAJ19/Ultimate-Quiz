@@ -419,13 +419,13 @@ let questions = [
   },
   {
     numb: 39,
-    question: "Who was AC Milan's captain in the 2003-04 season?",
-    answer: "Paolo Maldini",
+    question: "For how many nights is Hanukkah celebrated?",
+    answer: "8",
     options: [
-      "Roberto Antonelli", 
-      "Frank Baresi",
-      "Caesar Maldini",
-      "Paolo Maldini"
+      "5", 
+      "9",
+      "7",
+      "8"
     ]
   },
   {
