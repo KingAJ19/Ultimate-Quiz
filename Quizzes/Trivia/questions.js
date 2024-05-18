@@ -397,13 +397,13 @@ let questions = [
   },
   {
     numb: 37,
-    question: "Which club, famous for their purple shirts, were the first-ever winners of the European Cup Winners' Cup in 1961?",
-    answer: "Fiorentina",
+    question: "Which famous art movement did Pablo Picasso co-create?",
+    answer: "Cubism",
     options: [
-      "Juventus",
-      "Fiorentina",
-      "Roma",
-      "Napoli"
+      "Surrealism",
+      "Cubism",
+      "Post-Impressionism",
+      "Modernism"
     ]
   },
   {
