@@ -309,13 +309,13 @@ let questions = [
   },
   {
     numb: 29,
-    question: "Messi scored his first ever hat trick against which spanish club?",
-    answer: "Real Madrid",
+    question: "Which rapper is nick named Jigga?",
+    answer: "Jay-Z",
     options: [
-      "Real Betis",
-      "Getafe",
-      "Athletic Bilbao",
-      "Real Madrid"
+      "Nas",
+      "Tupac",
+      "Eminem",
+      "Jay-Z"
     ]
   },
   {
