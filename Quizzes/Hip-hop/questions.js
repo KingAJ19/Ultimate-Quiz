@@ -45,13 +45,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "David Seaman represented which country internationally?",
-    answer: "England",
+    question: "Lauryn Hill was a member of which band formed in 1994?",
+    answer: "The Fugees",
     options: [
-      "Germany",
-      "England",
-      "Hungary",
-      "France"
+      "The Pogues",
+      "The Fugees",
+      "All Saints",
+      "Salt - N - Pepa"
     ]
   },
   {
