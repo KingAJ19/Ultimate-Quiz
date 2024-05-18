@@ -463,13 +463,13 @@ let questions = [
   },
   {
     numb: 43,
-    question: "Which country became the first from Africa to compete at a World Cup finals?",
-    answer: "Egypt",
+    question: "Before adding the 'Miller' to his Mac, the 19-year-old Pittsburgh rapper went by",
+    answer: "EZ-Mac",
     options: [
-      "Egypt", 
-      "Morocco",
-      "Tunisia",
-      "Algeria"
+      "EZ-Mac", 
+      "Mac-10",
+      "Mac Lo",
+      "Eazy Mac-10"
     ]
   },
   {
