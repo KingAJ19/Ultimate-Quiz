@@ -485,13 +485,13 @@ let questions = [
   },
   {
     numb: 45,
-    question: "No country outside of Europe or South America has ever won the men’s World Cup. True or False?",
-    answer: "True",
+    question: "What is the capital city of Canada?",
+    answer: "Ottawa",
     options: [
-      "Neither", 
-      "Both",
-      "False",
-      "True"
+      "Vancouver", 
+      "Toronto",
+      "Calgary",
+      "Ottawa"
     ]
   },
   {
