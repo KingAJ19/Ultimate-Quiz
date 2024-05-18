@@ -452,13 +452,13 @@ let questions = [
   },
   {
     numb: 42,
-    question: "The first FIFA World Cup tournament was held in",
-    answer: "1930",
+    question: "Which rap superstars collaborated on the 2011 album Watch the Throne?",
+    answer: "Jay-Z & Kanye West",
     options: [
-      "1930", 
-      "1929",
-      "1940",
-      "1928"
+      "Jay-Z & Kanye West", 
+      "DMX & Swizz Beatz",
+      "Jay-Z & Rick Ross",
+      "Diddy & Rick Ross"
     ]
   },
   {
