@@ -287,13 +287,13 @@ let questions = [
   },
   {
     numb: 27,
-    question: "Who won La Liga Best Player award 2015/2016?",
-    answer: "Antonio Griezmann",
+    question: "What was the birth name of boxing legend Muhammad Ali?",
+    answer: "Cassius Clay",
     options: [
-      "Lionel Messi",
-      "Antonio Griezmann",
-      "Cristiano Ronaldo",
-      "Luis Suarez"
+      "Casiuss Clay",
+      "Cassius Clay",
+      "Cassius Klay",
+      "Kassius Clay"
     ]
   },
   {
