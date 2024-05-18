@@ -254,13 +254,13 @@ let questions = [
   },
   {
     numb: 24,
-    question: "What type of animal features on the Chelsea club badge?",
-    answer: "Lion",
+    question: "The album, The Black Album , was released by which hip hop group or artist?",
+    answer: "Jay-Z",
     options: [
-      "Tiger",
-      "Lion",
-      "Jaguar",
-      "Panther"
+      "Lil Wayne",
+      "Jay-Z",
+      "Eminem",
+      "Ludacris"
     ]
   },
   {
