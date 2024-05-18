@@ -331,13 +331,13 @@ let questions = [
   },
   {
     numb: 31,
-    question: "Which year did Messi scored his first ever hat trick against Real Madrid?",
-    answer: "2007",
+    question: "What river runs through Paris?",
+    answer: "The Seine",
     options: [
-      "2009",
-      "2008",
-      "2007",
-      "2010"
+      "The Canal de l'Ourcq",
+      "The Bièvre",
+      "The Seine",
+      "The Menilmontant"
     ]
   },
   {
