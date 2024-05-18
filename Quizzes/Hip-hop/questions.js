@@ -419,13 +419,13 @@ let questions = [
   },
   {
     numb: 39,
-    question: "Who was AC Milan's captain in the 2003-04 season?",
-    answer: "Paolo Maldini",
+    question: "Coloring Book is which star's third mixtape released in 2016?",
+    answer: "Chance The Rapper",
     options: [
-      "Roberto Antonelli", 
-      "Frank Baresi",
-      "Caesar Maldini",
-      "Paolo Maldini"
+      "Joey Bada$$", 
+      "Isaiah Rashad",
+      "Cordae",
+      "Chance The Rapper"
     ]
   },
   {
