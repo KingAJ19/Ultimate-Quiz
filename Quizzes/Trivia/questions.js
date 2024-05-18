@@ -386,13 +386,13 @@ let questions = [
   },
   {
     numb: 36,
-    question: "AC Milan was founded in December 1899. Which English city were the club's founders from?",
-    answer: "Nottingham",
+    question: "What is the rarest blood type?",
+    answer: "AB negative",
     options: [
-      "Nottingham",
-      "Birmingham",
-      "Bergamo",
-      "Venice"
+      "AB negative",
+      "B negative",
+      "AB positive",
+      "A negative"
     ]
   },
   {
