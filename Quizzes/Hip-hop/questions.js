@@ -188,13 +188,13 @@ let questions = [
   },
   {
     numb: 18,
-    question: "As of 2020, which of these teams have been relegated the most times from the Premier League?",
-    answer: "Norwich City",
+    question: "The album, Raising Hell , was released by which hip hop group or artist?",
+    answer: "Run–D.M.C.",
     options: [
-      "Sunderland",
-      "West Brom",
-      "Norwich City",
-      "Hull City"
+      "Salt-n-Pepa",
+      "Makaveli",
+      "Run–D.M.C.",
+      "DMX"
     ]
   },
   {
