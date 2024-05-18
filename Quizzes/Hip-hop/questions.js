@@ -485,13 +485,13 @@ let questions = [
   },
   {
     numb: 45,
-    question: "No country outside of Europe or South America has ever won the men’s World Cup. True or False?",
-    answer: "True",
+    question: "Calvin Cordozar Broadus is the government name of what rapper?",
+    answer: "Snoop Dogg",
     options: [
-      "Neither", 
-      "Both",
-      "False",
-      "True"
+      "Wiz Khalifa", 
+      "Nate Dogg",
+      "Fat Joe",
+      "Snoop Dogg"
     ]
   },
   {
