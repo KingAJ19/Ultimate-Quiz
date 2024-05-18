@@ -67,13 +67,13 @@ let questions = [
   },
   {
     numb: 7,
-    question: "Manchester United are also known as 'The Red .......'?",
-    answer: "Devils",
+    question: "Who was the first artist to remix Drake's song 'Started from the Bottom'?",
+    answer: "Wiz Khalifa",
     options: [
-      "Bulls",
-      "Men",
-      "Kite",
-      "Devils"
+      "Juicy J",
+      "Tyga",
+      "Snoop Dogg",
+      "Wiz Khalifa"
     ]
   },
   {
