@@ -474,13 +474,13 @@ let questions = [
   },
   {
     numb: 44,
-    question: "Which country was the first to win two World Cups?",
-    answer: "Italy",
+    question: "Where in the human body is the smallest bone located?",
+    answer: "The ear",
     options: [
-      "Brazil", 
-      "Scotland",
-      "Italy",
-      "Germany"
+      "The feet", 
+      "The leg",
+      "The ear",
+      "The arms"
     ]
   },
   {
