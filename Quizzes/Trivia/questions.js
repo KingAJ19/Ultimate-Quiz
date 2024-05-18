@@ -232,13 +232,13 @@ let questions = [
   },
   {
     numb: 22,
-    question: "Which Merseyside club play at Goodison Park?",
-    answer: "Everton",
+    question: "What country was the Marxist revolutionary figure Che Guevara born in?",
+    answer: "Argentina",
     options: [
-      "Everton",
-      "Tranmere",
-      "Southport",
-      "Pilkington"
+      "Argentina",
+      "United Kingdom",
+      "Germany",
+      "Paru"
     ]
   },
   {
