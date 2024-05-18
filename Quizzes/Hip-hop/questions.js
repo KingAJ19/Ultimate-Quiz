@@ -243,13 +243,13 @@ let questions = [
   },
   {
     numb: 23,
-    question: "What did Eric Cantona do in 1995 that earned him a 9 month ban from football?",
-    answer: "Kung-fu kicked an opposing fan during a game",
+    question: "The best selling album, All Eyez On Me, released by 2Pac was released In what year?",
+    answer: "1996",
     options: [
-      "Took off his clothes during the game",
-      "Punched the referee in the face",
-      "Kung-fu kicked an opposing fan during a game",
-      "Threw things into the crowd"
+      "1986",
+      "1997",
+      "1996",
+      "1998"
     ]
   },
   {
