@@ -78,13 +78,13 @@ let questions = [
   },
   {
     numb: 8,
-    question: "In what position does Harry Kane play?",
-    answer: "Striker",
+    question: "The album, 'Graduation' was released by which artist?",
+    answer: "Kanye West",
     options: [
-      "Midfielder",
-      "Defender",
-      "Striker",
-      "Goalkeeper"
+      "Will Smith",
+      "Nelly",
+      "Kanye West",
+      "Dr. Dre"
     ]
   },
   {
