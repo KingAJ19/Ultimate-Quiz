@@ -540,13 +540,13 @@ let questions = [
   },
   {
     numb: 50,
-    question: "The 2018 tournament is a record-setting tournament for the number of-",
-    answer: "Most own goals",
+    question: "Scott Ramon Seguro Mescudi is the government name of which rapper?",
+    answer: "Kid Cudi",
     options: [
-      "Most own goals", 
-      "Most goals",
-      "Most hat-tricks",
-      "Most red cards"
+      "Kid Cudi", 
+      "LL Cool J",
+      "Wiz Khalifa",
+      "Busta Rhymes"
     ]
   },
     
