@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Complete the name of this former Premier League team. Charlton _____",
-    answer: "Athletic",
+    question: "The album, It's Dark and Hell Is Hot , was released by which hip hop group or artist?",
+    answer: "DMX",
     options: [
-      "Wycombe",
-      "Barnsley",
-      "Wigan",
-      "Athletic"
+      "Juvenile",
+      "Run–D.M.C.",
+      "Salt-n-Pepa",
+      "DMX"
     ]
   },
     {
