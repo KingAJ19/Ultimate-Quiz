@@ -12,13 +12,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "Ex-West Ham striker Paulo Di Canio was from which country?",
-    answer: "Italy",
+    question: "Who composed the 'Moonlight Sonata'?",
+    answer: "Ludwig van Beethoven",
     options: [
-      "Italy",
-      "Germany",
-      "Sweden",
-      "Spain"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus",
+      "Frédéric Chopin",
+      "Johann Sebastian Bach"
     ]
   },
     {
