@@ -144,13 +144,13 @@ let questions = [
   },
   {
     numb: 14,
-    question: "David Beckham played for which MLS team in the United States?",
-    answer: "LA Galaxy",
+    question: "Who is one of hip hop's most successful producers?",
+    answer: "Dr. Dre",
     options: [
-      "Atalanta United",
-      "Inter Miami",
-      "LA Galaxy",
-      "Orlando City"
+      "Dr. Pepper",
+      "Sir. Dre",
+      "Dr. Dre",
+      "Mr. Dre"
     ]
   },
   {
