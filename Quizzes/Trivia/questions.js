@@ -215,19 +215,19 @@ let questions = [
     options: [
       "The lion",
       "The hippo",
-      "The shark",
+      "The tiger",
       "The bear"
     ]
   },
   {
     numb: 21,
-    question: "Which of these is a famous stand at Liverpool's Anfield stadium?",
-    answer: "The Kop",
+    question: "What is the deadliest animal in the world?",
+    answer: "The mosquito",
     options: [
-      "The Kopp",
-      "The Cop",
-      "The Kops",
-      "The Kop"
+      "The mosquitop",
+      "The scorpions",
+      "The elephant",
+      "The snake"
     ]
   },
   {
