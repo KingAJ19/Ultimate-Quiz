@@ -408,13 +408,13 @@ let questions = [
   },
   {
     numb: 38,
-    question: "In which year did AC Milan win their first Campionato?",
-    answer: "1901",
+    question: "Which U.S. president is featured on the $2 bill?",
+    answer: "Thomas Jefferson",
     options: [
-      "1901", 
-      "1900",
-      "1902",
-      "1905"
+      "Thomas Jefferson", 
+      "George Washington",
+      "Alexander Hamilton",
+      "Benjamin Franklin"
     ]
   },
   {
