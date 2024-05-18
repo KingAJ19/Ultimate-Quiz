@@ -441,13 +441,13 @@ let questions = [
   },
   {
     numb: 41,
-    question: "Against which Spanish side did Juventus win the UEFA Cup in 1977?",
-    answer: "Athletico Bilbao",
+    question: "Who is the actress with the longest-running TV career?",
+    answer: "Betty White",
     options: [
-      "Osasuna", 
-      "Sevilla",
-      "Atletico Madrid",
-      "Athletico Bilbao"
+      "Jane Fonda", 
+      "Cloris Leachman",
+      "Angela Lansbury",
+      "Betty White"
     ]
   },
   {
