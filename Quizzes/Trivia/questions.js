@@ -46,7 +46,7 @@ let questions = [
   {
     numb: 5,
     question: "What year did the Berlin Wall fall?",
-    answer: " 1989",
+    answer: "1989",
     options: [
       "1990",
       "1989",
