@@ -397,13 +397,13 @@ let questions = [
   },
   {
     numb: 37,
-    question: "Which club, famous for their purple shirts, were the first-ever winners of the European Cup Winners' Cup in 1961?",
-    answer: "Fiorentina",
+    question: "Who was not on XXL's Freshmen Ten of 2011?",
+    answer: "Big Sean",
     options: [
-      "Juventus",
-      "Fiorentina",
-      "Roma",
-      "Napoli"
+      "Kendrick Lamar",
+      "Big Sean",
+      "Yelawolf",
+      "Mac Miller"
     ]
   },
   {
