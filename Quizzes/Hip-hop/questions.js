@@ -199,13 +199,13 @@ let questions = [
   },
   {
     numb: 19,
-    question: "What type of weaponry features on the Arsenal club badge?",
-    answer: "Cannon",
+    question: "Who are the '03 Bonnie And Clyde'?",
+    answer: "Jay-Z and Beyonce",
     options: [
-      "Machine Gun",
-      "Dagger",
-      "Shotgun",
-      "Cannon"
+      "Eminem and Kim",
+      "50 Cent and Olivia",
+      "Lil John and Mary J Blige",
+      "Jay-Z and Beyonce"
     ]
   },
   {
