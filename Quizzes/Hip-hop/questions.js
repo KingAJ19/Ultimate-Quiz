@@ -287,13 +287,13 @@ let questions = [
   },
   {
     numb: 27,
-    question: "Who won La Liga Best Player award 2015/2016?",
-    answer: "Antonio Griezmann",
+    question: "Which of the following rappers are from the East Coast?",
+    answer: "Nas",
     options: [
-      "Lionel Messi",
-      "Antonio Griezmann",
-      "Cristiano Ronaldo",
-      "Luis Suarez"
+      "50 Cent",
+      "Dr. Dre",
+      "Ludacris",
+      "Nas"
     ]
   },
   {
