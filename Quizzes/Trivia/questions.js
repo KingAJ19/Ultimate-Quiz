@@ -507,13 +507,13 @@ let questions = [
   },
   {
     numb: 47,
-    question: "Who won the top scorer title at the tournament on Mexican soil in 1986?",
-    answer: "Gary Lineker",
+    question: "In what year was the first birth control pill made available to the public in the U.S.?",
+    answer: "1960",
     options: [
-      "Diego Maradona", 
-      "Gary Lineker",
-      "Michel Platini",
-      "Zico"
+      "1961", 
+      "1960",
+      "1955",
+      "1970"
     ]
   },
   {
