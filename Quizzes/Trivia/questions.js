@@ -155,13 +155,13 @@ let questions = [
   },
   {
     numb: 15,
-    question: "The city of Liverpool has two clubs in the Premier League - Liverpool & which other?",
-    answer: "Everton",
+    question: "What year was the first iPhone released?",
+    answer: "2007",
     options: [
-      "West Ham",
-      "Crystal Palace",
-      "Sheffield United",
-      "Everton"
+      "2008",
+      "2004",
+      "2005",
+      "2007"
     ]
   },
   {
