@@ -375,13 +375,13 @@ let questions = [
   },
   {
     numb: 35,
-    question: "Who was the first Real Madrid's manager?",
-    answer: "Arthur Johnson",
+    question: "The Bugatti Boyz are made up of these two rappers:",
+    answer: "Diddy & Rick Ross",
     options: [
-      "Juande Ramos",
-      "Vicente del Bosque",
-      "Fabio Capello",
-      "Arthur Johnson"
+      "T.I. & B.o.B",
+      "Rick Ross & Pusha T",
+      "Gucci Mane & Waka Flocka Flame",
+      "Diddy & Rick Ross"
     ]
   },
   {
