@@ -144,13 +144,13 @@ let questions = [
   },
   {
     numb: 14,
-    question: "David Beckham played for which MLS team in the United States?",
-    answer: "LA Galaxy",
+    question: "What is the human body’s largest organ?",
+    answer: "Skin",
     options: [
-      "Atalanta United",
-      "Inter Miami",
-      "LA Galaxy",
-      "Orlando City"
+      "Pancreas",
+      "Liver",
+      "Skin",
+      "Joints"
     ]
   },
   {
