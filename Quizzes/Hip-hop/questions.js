@@ -496,13 +496,13 @@ let questions = [
   },
   {
     numb: 46,
-    question: "What was bizarre about Australia’s qualification for the 1998 World Cup?",
-    answer: "They were unbeaten but still didn’t qualify for the tournament",
+    question: "Ludacris, Yung LA, Gucci Mane, Andre 3000, Jermaine Dupri... These rappers rep which city?",
+    answer: "Atlanta",
     options: [
-      "They competed with the CONMEBOL nations for a place", 
-      "They had four different managers",
-      "They were unbeaten but still didn’t qualify for the tournament",
-      "None of their starting XI against Fiji was born in Australia"
+      "New York City", 
+      "Jacksonville",
+      "Atlanta",
+      "Los Angeles"
     ]
   },
   {
