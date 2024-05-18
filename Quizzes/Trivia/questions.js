@@ -529,13 +529,13 @@ let questions = [
   },
   {
     numb: 49,
-    question: "Who won the Best Young Player award in 2014?",
-    answer: "Paul Pogba",
+    question: "In what year did the first Walt Disney World park open in Florida?",
+    answer: "1971",
     options: [
-      "Memphis Depay", 
-      "James Rodriguez",
-      "Paul Pogba",
-      "Luke Shaw"
+      "1982", 
+      "1970",
+      "1971",
+      "1965"
     ]
   },
   {
