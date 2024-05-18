@@ -45,13 +45,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "David Seaman represented which country internationally?",
-    answer: "England",
+    question: "What year did the Berlin Wall fall?",
+    answer: " 1989",
     options: [
-      "Germany",
-      "England",
-      "Hungary",
-      "France"
+      "1990",
+      "1989",
+      "1986",
+      "1999"
     ]
   },
   {
