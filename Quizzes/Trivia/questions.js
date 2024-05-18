@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "Who scored with his hand in the 1986 World Cup quarterfinals against England?",
-    answer: "Diego Maradona",
+    question: "In what country did the first Starbucks open outside of North America?",
+    answer: "Japan",
     options: [
-      "Zinedine Zidane",
-      "Pele",
-      "Diego Maradona",
-      "Ronaldo"
+      "England",
+      "Uruguay",
+      "Japan",
+      "Sweden"
     ]
   },
     {
