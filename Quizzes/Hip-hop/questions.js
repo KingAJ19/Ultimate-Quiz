@@ -177,13 +177,13 @@ let questions = [
   },
   {
     numb: 17,
-    question: "Fulham Football Club are situated in which English city?",
-    answer: "London",
+    question: "Tupac was killed in a drive by shooting in which US city in 1996?",
+    answer: "Las Vegas",
     options: [
-      "Birmingham",
-      "Leicester",
-      "London",
-      "Coventry"
+      "Detroit",
+      "Los Angeles",
+      "Las Vegas",
+      "New York"
     ]
   },
   {
