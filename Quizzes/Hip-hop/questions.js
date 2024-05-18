@@ -221,13 +221,13 @@ let questions = [
   },
   {
     numb: 21,
-    question: "Which of these is a famous stand at Liverpool's Anfield stadium?",
-    answer: "The Kop",
+    question: "The album, 'Ghetto D', was released by which artist?",
+    answer: "Master P",
     options: [
-      "The Kopp",
-      "The Cop",
-      "The Kops",
-      "The Kop"
+      "Silkk the Shocker",
+      "Mystikal",
+      "Lil Romeo",
+      "Master P"
     ]
   },
   {
