@@ -89,13 +89,13 @@ let questions = [
   },
   {
     numb: 9,
-    question: "How many teams are promoted to the Premier League each season from the division below?",
-    answer: "3",
+    question: "What is the highest-grossing Broadway show of all time?",
+    answer: "The Lion King",
     options: [
-      "2",
-      "4",
-      "3",
-      "5"
+      "Wicked",
+      "Hamilton",
+      "The Lion King",
+      "Aladdin"
     ]
   },
   {
