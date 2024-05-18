@@ -111,13 +111,13 @@ let questions = [
   },
   {
     numb: 11,
-    question: "Complete the name of this former Premier League team. Bolton _____",
-    answer: "Wanderers",
+    question: "Where was the hottest-ever temperature on Earth recorded, per the World Meteorological Organization?",
+    answer: "Death Valley, California",
     options: [
-      "County",
-      "Vale",
-      "Wanderers",
-      "City"
+      "Kopperl, Texas",
+      "Figueira da Foz, Coimbra",
+      "Death Valley, California",
+      "Mexicali, BC"
     ]
   },
   {
