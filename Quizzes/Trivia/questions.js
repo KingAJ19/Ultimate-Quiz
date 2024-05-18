@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Complete the name of this former Premier League team. Charlton _____",
-    answer: "Athletic",
+    question: "In a website browser address bar, what does “www” stand for? ",
+    answer: "World Wide Web",
     options: [
-      "Wycombe",
-      "Barnsley",
-      "Wigan",
-      "Athletic"
+      "World Wide Win",
+      "We Will Win",
+      "World Wide Website",
+      "World Wide Web"
     ]
   },
     {
