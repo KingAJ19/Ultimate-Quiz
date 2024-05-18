@@ -133,13 +133,13 @@ let questions = [
   },
   {
     numb: 13,
-    question: "Former Arsenal manager Arsene Wenger is from which country?",
-    answer: "France",
+    question: "Whose album is 'The Chronic'?",
+    answer: "Dr. Dre",
     options: [
-      "Italy",
-      "Portugal",
-      "Germany",
-      "France"
+      "Ice Cube",
+      "Eazy E",
+      "MC Ren",
+      "Dr. Dre"
     ]
   },
   {
