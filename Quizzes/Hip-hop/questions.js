@@ -518,13 +518,13 @@ let questions = [
   },
   {
     numb: 48,
-    question: "This is the first tournament for both Lionel Messi and Cristiano Ronaldo. How many goals did they score each (2006)?",
-    answer: "1",
+    question: "This rapper also goes by 'Bobby Ray'",
+    answer: "B.o.B",
     options: [
-      "4", 
-      "6",
-      "4",
-      "1"
+      "Juicy J", 
+      "Bubba Sparxxx",
+      "Bow Wow",
+      "B.o.B"
     ]
   },
   {
