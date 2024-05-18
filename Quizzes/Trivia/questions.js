@@ -430,13 +430,13 @@ let questions = [
   },
   {
     numb: 40,
-    question: "Which striker was topscorer three times in the 90s, when he played for Lazio?",
-    answer: "Giuseppe Signori",
+    question: "What country has the highest number of citizens over the age of 65?",
+    answer: "Japan",
     options: [
-      "Gabriel Batistuta", 
-      "Giuseppe Signori",
-      "Roberto Baggio",
-      "Ciro Immobile"
+      "Brazil", 
+      "Japan",
+      "Namibia",
+      "England"
     ]
   },
   {
