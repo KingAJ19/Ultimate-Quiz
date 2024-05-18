@@ -56,13 +56,13 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Ex-Arsenal player Dennis Bergkamp is from which country?",
-    answer: "Netherlands",
+    question: "What element does the chemical symbol Au stand for?",
+    answer: "Gold",
     options: [
-      "England",
-      "France",
-      "Netherlands",
-      "Italy"
+      "Silver",
+      "Platinum",
+      "Gold",
+      "Titanium"
     ]
   },
   {
