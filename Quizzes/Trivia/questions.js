@@ -227,7 +227,7 @@ let questions = [
       "The mosquito",
       "The scorpions",
       "The elephant",
-      "The snake"
+      "The snake" 
     ]
   },
   {
