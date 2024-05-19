@@ -221,7 +221,7 @@ let questions = [
   },
   {
     numb: 21,
-    question: "What is the deadliest animal in the world?",
+    question: "What is the deadliest animal in the world?", 
     answer: "The mosquito",
     options: [
       "The mosquito",
