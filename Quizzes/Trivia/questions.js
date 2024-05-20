@@ -228,7 +228,7 @@ let questions = [
       "The scorpions",
       "The elephant",
       "The snake" 
-    ]
+    ] 
   },
   {
     numb: 22,
