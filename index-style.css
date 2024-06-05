@@ -36,6 +36,7 @@ body {
   position: relative;
   padding-left: 1.4em;
   font-size: 28px;
+  color: #18448c;
 }
 
 .list--item::before {
